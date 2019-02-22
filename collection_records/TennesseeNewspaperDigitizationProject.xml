@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Tennessee Newspaper Digitization Project (TNDP)</title>
+    </titleInfo>
+    <abstract>The Tennessee Newspaper Digitization Project (TNDP) is a partnership between the University of Tennessee and the Tennessee State Library and Archives. The project provides access to a selection of Tennessee's historical newspapers. It is part of the National Digital Newspaper Program (NDNP) and is made possible by support from the National Endowment for the Humanities and the Library of Congress.
+    </abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1861</dateCreated>
+        <dateCreated encoding="edtf" point="end">1922</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85020870">
+        <topic>Cataloging of newspapers</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101077">
+        <topic>American newspapers--Directories</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133876">
+        <topic>Tennessee--Politics and government</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+        <topic>Tennessee--History</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133875">
+        <topic>Tennessee--History--Civil War, 1861-1865</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008113838">
+        <topic>World War, 1914-1918--Periodicals</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82044753">
+        <name>
+            <namePart>United States. Constitution. 19th Amendment</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
