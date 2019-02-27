@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>University of Tennessee catalogs online</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Undergraduate catalog (University of Tennessee)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Graduate catalog (University of Tennessee)</title>
+    </titleInfo>
+    <abstract>Online archive of past course catalogs for graduate and undergraduate students at the University of Tennessee, Knoxville.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889">
+        <namePart>University of Tennessee, Knoxville</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1975</dateCreated>
+        <dateCreated encoding="edtf" point="end">2009</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028009">curricula</form>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107">
+        <topic>Universities and colleges--Curricula--Catalogs</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008102770">
+        <topic>Education, Higher--Curricula--United States</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
