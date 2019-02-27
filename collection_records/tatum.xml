@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Robert Tatum Diaries</title>
+    </titleInfo>
+    <abstract>On June 7, 1913, four climbers reached the south summit of Denali, known at the time as Mount McKinley, the highest peak in North America. It was the first successful ascent to the pinnacle. Robert G. Tatum was a member of the climbing party. The University of Tennessee's digital collection of Tatum's diaries document the climb as well as Tatum's life after the ascent. Also available is a photograph album with images taken during and after the famous climb.</abstract>
+    <name>
+        <namePart>Tatum, Robert G. (Robert George), 1891-1964</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1913</dateCreated>
+        <dateCreated encoding="edtf" point="end">1923</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027112">diaries</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026695">photograph albums</form>
+        <extent>7 items</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85087816">
+        <topic>Mountaineering</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh87005015">
+        <topic>Wilderness areas--Alaska</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026980">
+        <topic>Clergy, Writings of</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/subjects/sh85082617">
+        <name>
+            <namePart>Denali, Mount (Alaska)</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Robert G. Tatum Papers</title>
+        </titleInfo>
+        <identifier>MS.0774</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
