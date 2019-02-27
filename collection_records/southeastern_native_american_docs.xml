@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Southeastern Native American Documents</title>
+    </titleInfo>
+    <abstract>Southeastern Native American Documents, 1730-1842, contains approximately 2,000 documents and images relating to the Native American population of the Southeastern United States from the collections of the University of Georgia Libraries, the University of Tennessee at Knoxville Library, the Frank H. McClung Museum, the Tennessee State Library and Archives, the Tennessee State Museum, the Museum of the Cherokee Indian, and the LaFayette-Walker County Library. The documents are comprised of letters, legal proceedings, military orders, financial papers, and archaeological images relating to Native Americans in the Southeast.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1730</dateCreated>
+        <dateCreated encoding="edtf" point="end">1842</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027590">legal documents</form>
+        <extent>2000 items</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85065517">
+        <topic>Indians of North America--Southern States</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85065079">
+        <topic>Indians, Treatment of--North America</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+        <topic>Cherokee Indians--Government relations</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033891">
+        <topic>Creek Indians</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79072794">
+        <name>
+            <namePart>Sequoyah, 1770?-1843</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2012013500">
+       <name>
+           <namePart>McIntosh, William, 1779 or 1780-1823</namePart>
+       </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82214557">
+       <name>
+           <namePart>Ross, John, 1790-1866</namePart>
+       </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <typeOfResource collection="yes">image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

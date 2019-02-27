@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Digital Civil War Collection</title>
+    </titleInfo>
+    <abstract>One of Special Collection's main collection strengths is the Civil War and Reconstruction Era. In addition to images and military documents--such as muster rolls, generals' orders, and supply requests--the department also houses a significant amount of correspondence and journals from the time period. As a collective whole, these materials chronicle the evolution of the American Civil War and the immediate aftermath. UT Libraries' Digital Civil War Collection provides a selection of digitized journals and correspondence. These materials provide unique insight into the era's military and regional culture by capturing the perspectives and personal experiences of soldiers as well as civilians affected by the war through personal relationships or geographic location. In addition, these materials record political opinions and regional attitudes about topical issues such as slavery and poverty. Each item includes a digital scan of the original document accompanied by a full text transcript.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1839</dateCreated>
+        <dateCreated encoding="edtf" point="end">1902</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027112">diaries</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+        <extent>80 items</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140205">
+        <topic>United States--History--Civil War, 1861-1865</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008002714">
+        <topic>War diaries</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2010114038">
+        <topic>Soldiers--Confederate States of America--Social conditions</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85111862">
+        <topic>Reconstruction (U.S. history, 1865-1877)</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2004041534">
+        <name>
+            <namePart>Confederate States of America. Army. Tennessee Infantry Regiment, 19th.</namePart>
+        </name>
+    </subject>
+    <subject>
+        <name>
+            <namePart>Pippitt, Henry</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
