@@ -10,6 +10,24 @@
             <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/edt">Editor</roleTerm>
         </role>
     </name>
+    <name type="personal" authority="naf" valueURI="http://id.loc.gov/authorities/names/n79079409">
+        <namePart>Davis, Richard Beale</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009156175">
+        <namePart>Barringer, George M.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009156177">
+        <namePart>Hancock, Sandra G.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+        </role>
+    </name>
     <originInfo>
         <dateCreated encoding="edtf" keyDate="yes">2010</dateCreated>
     </originInfo>
