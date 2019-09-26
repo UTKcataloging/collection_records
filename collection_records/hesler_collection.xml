@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>L.R. Hesler’s Mushroom Research Notebooks</title>
+    </titleInfo>
+    <abstract>Includes notes, drawings, and photographs of mushrooms created by L. R. Hesler for the purposes of identification and classification.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n85805269">
+        <namePart>Hesler, L. R. (Lexemuel Ray)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+        <originInfo>
+            <dateCreated encoding="edtf" point="start">1919</dateCreated>
+            <dateCreated encoding="edtf" point="end">1977</dateCreated>
+        </originInfo>
+        <physicalDescription>
+            <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027201">field notes</form>
+            <extent>212 documents</extent>
+        </physicalDescription>
+        <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089188">
+            <topic>Mycology</topic>
+        </subject>
+        <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088751">
+            <topic>Mushrooms</topic>
+        </subject>
+        <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85014193">
+            <topic>Biological specimens--Identification</topic>
+        </subject>
+        <typeOfResource collection="yes">text</typeOfResource>
+        <language>
+            <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+        </language>
+        <relatedItem displayLabel="Collection" type="host">
+            <titleInfo>
+                <title>L.R. Hesler Botanical Research Notebooks</title>
+            </titleInfo>
+            <identifier>MS.3751</identifier>
+        </relatedItem>
+        <location>
+            <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+                University of Tennessee, Knoxville. Special Collections
+            </physicalLocation>
+        </location>
+        <recordInfo>
+            <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+        </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
