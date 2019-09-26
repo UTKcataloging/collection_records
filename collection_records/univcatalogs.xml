@@ -3,12 +3,6 @@
     <titleInfo>
         <title>University of Tennessee catalogs online</title>
     </titleInfo>
-    <titleInfo type="alternative">
-        <title>Undergraduate catalog (University of Tennessee)</title>
-    </titleInfo>
-    <titleInfo type="alternative">
-        <title>Graduate catalog (University of Tennessee)</title>
-    </titleInfo>
     <abstract>Online archive of past course catalogs for graduate and undergraduate students at the University of Tennessee, Knoxville.</abstract>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889">
         <namePart>University of Tennessee, Knoxville</namePart>
