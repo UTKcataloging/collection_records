@@ -32,7 +32,11 @@
             <namePart><!--  --></namePart>
         </name>
     </subject>
+    <subject authority="naf" valueURI="<!--  -->"
+        <geographic></geographic>
+    </subject>
     <typeOfResource collection="yes"><!--  --></typeOfResource>
+    <classification authority="lcc"><!-- Use for collections that don't have archival identifiers (MS, AR, MPA) and instead have call #s --></classification>
     <language>
         <languageTerm authority="iso639-2b" type="text"><!--  --></languageTerm>
     </language>
