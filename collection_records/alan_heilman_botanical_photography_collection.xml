@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>The Botanical photography of Alan S. Heilman</title>
+    </titleInfo>
+    <abstract>This collection consists of more than 1,100 digitized color-film photographs of flowering plants, ferns, mosses, and lichens taken over the past sixty years by Alan S. Heilman, retired professor of Botany at the University of Tennessee, Knoxville. Recently gifted by Dr. Heilman to the University of Tennessee Libraries, the digital images represent a lifetime of fascination with the color, form, and development of plants.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019039628">
+        <namePart>Heilman, Alan Smith, 1927-2017</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1954</dateCreated>
+        <dateCreated encoding="edtf" point="end">2010</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <extent>1120 photographs</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101358">
+        <topic>Photography of plants</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh88004248">
+        <topic>Endemic plants</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85049332">
+        <topic>Flowers</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85102884">
+        <topic>Plants, Cultivated</topic>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+    </language>
+    <relatedItem type="host" displayLabel="Project">
+        <titleInfo>
+            <title>Botanical Photography of Alan S. Heilman</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="host" displayLabel="Collection">
+        <titleInfo>
+            <title>Botany Department Photographs</title>
+        </titleInfo>
+        <identifier type="local">AR.0488</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/3.0/">
+        Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)
+    </accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
+        In Copyright
+    </accessCondition>
+</mods>
