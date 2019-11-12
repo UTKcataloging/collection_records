@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Air Scoop</title>
+    </titleInfo>
+    <abstract>The Air Scoop weekly newsletter informed and entertained members of the 63rd College Training Detachment based at the University of Tennessee during World War II. The detachment’s goal was to run a publication for and by aviation students in the detachment in order to unify the organization and to share news related to military training and social events occurring on and around the Knoxville campus.</abstract>
+    <name>
+        <namePart>
+            United States. Army Air Forces. College Training Detachment, 63rd
+        </namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1943</dateCreated>
+        <dateCreated encoding="edtf" point="end">1944</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>26 periodicals</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85129277">
+        <topic>
+            Student newspapers and periodicals
+        </topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85002673">
+        <topic>
+            Air pilots
+        </topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/subjects/sh85148273">
+        <name>
+            <namePart>
+                World War, 1939-1945
+            </namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Project" type="host">
+        <titleInfo>
+            <title>Air Scoop: The Air Force Cadet Newspaper</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>
+                University of Tennessee Aviation Cadets Collection, 1943-1944
+            </title>
+        </titleInfo>
+        <identifier type="local">MS.2816</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
