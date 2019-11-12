@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>W. O. Garner Photograph Collection</title>
+    </titleInfo>
+    <abstract>The William Orland Garner Collection depicts people, homes, recreational activities, and scenery of Maryville, Tennessee in the 1890s. Created by an amateur photographer with an eye for detail, these photographs represent a broad range of economic, social, and racial groups in an essentially agrarian culture. Of special interest are the images of the Freedman's Normal Institute, a teaching institution for African-American teachers.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n92038217">
+        <namePart>Garner, William Orland, 1858-1940</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1858</dateCreated>
+        <dateCreated encoding="edtf" point="end">1930</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <extent>119 photographs</extent>
+    </physicalDescription>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054">
+        <topic>Trees</topic>
+    </subject>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001405">
+        <topic>Buildings</topic>
+    </subject>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003920">
+        <topic>Fences</topic>
+    </subject>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+        <topic>Clothing and dress</topic>
+    </subject>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+        <topic>Women</topic>
+    </subject>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006438">
+        <topic>Men</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79022085">
+        <geographic>
+            Maryville (Tenn.)
+        </geographic>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+    </language>
+    <location>
+        <physicalLocation>Blount County Public Library</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
