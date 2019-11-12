@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Blount County Historical and Architectural Inventory</title>
+    </titleInfo>
+    <abstract>The Tennessee Historical Commission conducted an architectural survey in 1983 of over 4,600 Blount County buildings that were over 50 years old (dating from 1800 to 1930). These images represent a wide variety of building types, such as stone structures, log houses, wooden-frame churches, and brick schoolhouses. A selection of 94 images, representative of the larger collection, is available now.
+    </abstract>
+    <originInfo>
+        <dateCreated encoding="edtf">1983</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <extent>93 photographs</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85061097">
+        <topic>Historic buildings</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+        <topic>Architectural photography</topic>
+    </subject>
+    <subject>
+        <topic>Maryville College--Buildings</topic>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Blount County Historical and Architectural Inventory</title>
+        </titleInfo>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
