@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Tennessee Farm News</title>
+    </titleInfo>
+    <abstract>Tennessee Farm News is a series of weekly news releases published by the University of Tennessee Extension Service. It was published from 1918 through 1989, with several title variations over the years. Announcements cover historical crop yields, market prices, farm facts, and farm shows in the state, as well as home economics topics and 4-H club updates. Courses and agricultural development programs offered by the University of Tennessee are also frequently mentioned.</abstract>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">1918</dateIssued>
+        <dateIssued encoding="edtf" point="end">1989</dateIssued>
+        <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat">press releases</form>
+        <form authority="aat">periodicals</form>
+        <extent>3451 periodicals</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+        <topic>Farm management</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Agriculture--Economic aspects</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>4-H clubs</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
