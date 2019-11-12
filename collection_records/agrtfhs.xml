@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Tennessee Farm and Home Science</title>
+    </titleInfo>
+    <abstract>Tennessee Farm and Home Science is a quarterly progress report released by University of Tennessee Agricultural Experiment Station from 1952-1994. This digital collection includes issues from 1952-1990. The publication’s primary focus is on agricultural research conducted at Experiment Stations across the state, but also features faculty spotlights and field day schedules, as well as news about Experiment Station personnel changes.</abstract>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">1952</dateIssued>
+        <dateIssued encoding="edtf" point="end">1990</dateIssued>
+        <publisher>University of Tennessee (Knoxville campus). Agricultural Experiment Station</publisher>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">newsletters</form>
+        <extent>135 newsletters</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114481">
+        <topic>Agriculture--Tennessee</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85047223">
+        <topic>Farm management</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077784">
+        <topic>Livestock</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965">
+        <geographic>Tennessee</geographic>
+        <cartographics>
+            <coordinates>35.75035, -86.25027</coordinates>
+        </cartographics>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
