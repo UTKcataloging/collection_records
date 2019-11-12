@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Children's Defense Fund</title>
+    </titleInfo>
+    <abstract>Collection of reports published by CDF on child welfare. CDF advocates for policies that will lift children out of poverty; protect them from abuse and neglect; and ensure their access to health care, quality education, and a moral and spiritual foundation.</abstract>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">1974</dateIssued>
+        <dateIssued encoding="edtf" point="end">2006</dateIssued>
+        <publisher>Children's Defense Fund (U.S.)</publisher>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027267">reports</form>
+        <form authority="aat" valueURI="">motion pictures (visual works)</form>
+        <extent>176 reports</extent>
+        <extent>23 motion pictures</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <subject>
+        <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic>
+    </subject>
+    <subject>
+        <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic>
+    </subject>
+    <subject>
+        <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023354">Child care</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80083301">
+        <name>
+            <namePart>
+                Children's Defense Fund (U.S.)
+            </namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
