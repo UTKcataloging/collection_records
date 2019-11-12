@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>The Art of Arrowmont</title>
+    </titleInfo>
+    <abstract>A collection of pottery and sculpture housed at the Arrowmont School of Arts and Crafts documented through still photographs and 360 degree gifs.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1940</dateCreated>
+        <dateCreated encoding="edtf" point="end">2004</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300010666">pottery (visual works)</form>
+        <extent>19 pieces of pottery</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99003037">
+        <topic>Wood sculpture, American</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105760">
+        <topic>Pottery, American</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2001080757">
+        <name>
+            <namePart>Arrowmont School of Arts and Crafts</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">three dimensional object</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
