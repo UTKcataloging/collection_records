@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Ruth Sturley's Letters and Diary</title>
+    </titleInfo>
+    <abstract>A collection of letters and a diary belonging to Ruth Sturley, who began teaching at the Pi Beta Phi Settlement School in August 1919.</abstract>
+    <name>
+        <namePart>Sturley, Ruth</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1919</dateCreated>
+        <dateCreated encoding="edtf" point="end">1920</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027112">diaries</form>
+        <extent>67 documents</extent>
+    </physicalDescription>
+    <subject authority="local">
+        <topic>Living Conditions</topic>
+    </subject>
+    <subject authority="local">
+        <topic>People</topic>
+    </subject>
+    <subject authority="local">
+        <topic>Social life</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
+        <topic>Teachers</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520">
+        <geographic>Gatlinburg (Tenn.)</geographic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not Evaluated</accessCondition>
+</mods>
