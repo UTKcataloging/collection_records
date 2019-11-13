@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Tennessee Girl Student Handbook</title>
+    </titleInfo>
+    <abstract>This publication is the female student handbook published originally by Women's Student Government Association (Associated Women Students) from 1930 to 1970. In 1970, this handbook was incorporated into a single handbook for all students of University of Tennessee Knoxville.</abstract>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">1930</dateIssued>
+        <dateIssued encoding="edtf" point="end">1969</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311807">handbooks</form>
+        <extent>24 handbooks</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008006119">
+        <topic>Women college students--United States</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
+        <topic>College student newspapers and periodicals</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147343">
+        <topic>Women--Societies and clubs</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147342">
+        <topic>Women--Socialization</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009120663">
+        <topic>
+            College student orientation--Handbooks, manuals, etc
+        </topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification>LD5296 .W6</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
