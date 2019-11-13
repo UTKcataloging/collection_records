@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Panoramic Images of Elgin P. Kintner</title>
+    </titleInfo>
+    <abstract>Collection of panoramic images of the Great Smoky Mountains created by Elgin P. Kintner, M.D. These panoramas were originally created by taking several photographs in sequence and then arranging them in order as panoramas could only be created by hand in the 1960s and 1970s. This digital collection uses modern technology to stitch these images more seamlessly together.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n92038212">
+        <namePart>Kintner, Elgin P.</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1968</dateCreated>
+        <dateCreated encoding="edtf" point="end">1981</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <extent>55 images</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295">
+        <topic>Photography, Panoramic</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101229">
+        <topic>Landscape photography</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85090290">
+        <topic>Nature photography</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2013001541">
+        <goegraphic>Clingmans Dome (N.C. and Tenn.)</goegraphic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh86006260">
+        <goegraphic>LeConte, Mount (Tenn.)</goegraphic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+        <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem type="host" displayLabel="Collection">
+        <titleInfo>
+            <title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title>
+        </titleInfo>
+        <identifier>MS.3686</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
