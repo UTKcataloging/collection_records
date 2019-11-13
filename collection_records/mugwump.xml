@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Mugwump</title>
+    </titleInfo>
+    <abstract>A combination of college humor and literary material, The Mugwump was a University of Tennessee student publication that ran from November 1920 until 1932. The Mugwump details student life issues, sports, literary critiques, poetry, as well as student drawn cartoons and art work.</abstract>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">1920</dateIssued>
+        <dateIssued encoding="edtf" point="end">1932</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>95 periodicals</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001184">
+        <topic>Advertising, Magazine</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843">
+        <topic>American wit and humor--Periodicals</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
+        <topic>College student newspapers and periodicals</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification authority="lcc">LH1.T2 M8</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
