@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Sanborn Fire Insurance Maps Collection</title>
+    </titleInfo>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no97057603">
+        <namePart>Sanborn Map &amp; Publishing Co.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <abstract>The Sanborn Fire Insurance Maps are a large-scale representation of the growth and layout of American cities. The University of Tennessee Libraries' collection currently provides digital versions of the earliest sets of Knoxville maps - 1884, 1890, 1903, 1917, and 1922.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1884</dateCreated>
+        <dateCreated encoding="edtf" point="end">1922</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+        <extent>256 maps</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh92002501">
+        <topic>Fire risk assessment</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85111739">
+        <topic>Real property</topic>
+    </subject>
+    <subject>
+        <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92074</coordinates>
+        </cartographics>
+    </subject>
+    <typeOfResource collection="yes">cartographic</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
