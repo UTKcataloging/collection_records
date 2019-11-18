@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Playbills</title>
+    </titleInfo>
+    <abstract>The University of Tennessee Theatre Playbills Collection showcases the history of theatre at the University of Tennessee, beginning with the UT Faculty Players to the current incarnation of the Clarence Brown Theatre Company, an affiliate of the League of Resident Theatres (LORT). Materials date from 1935 to present day.</abstract>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">1935</dateIssued>
+        <dateIssued point="end">present</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027216">playbills</form>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <extent>672 playbills</extent>
+    </physicalDescription>
+    <subject>
+        <topic valueURI="http://id.loc.gov/authorities/subjects/sh85008007">Art in universities and colleges</topic>
+    </subject>
+    <subject>
+        <topic valueURI="http://id.loc.gov/authorities/subjects/sh85134577">Theater programs</topic>
+    </subject>
+    <subject>
+        <topic valueURI="http://id.loc.gov/authorities/subjects/sh85028396">College theater</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>University of Tennessee Theatre Collection</title>
+        </titleInfo>
+        <identifier>AR.0235</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v81r6npf</url>
+        </location>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
