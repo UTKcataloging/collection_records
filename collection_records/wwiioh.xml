@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>WWII Oral Histories</title>
+    </titleInfo>
+    <abstract>Over the last 25 years, the Center for the Study of War and Society (CSWS) at the University of Tennessee has conducted oral history interviews focusing on individual veteran's experiences throughout the war, both and at home and abroad. The WWII oral history interviews uniquely capture the experiences and memories of the veteran beginning with their lives before combat, motivations to enlist, personal experiences during the war, and their experiences readjusting to civilian life afterwards.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1984</dateCreated>
+        <dateCreated encoding="edtf" point="end">2011</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026392">interviews</form>
+        <extent>167 interviews</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145220">
+        <topic>War stories</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85111996">
+        <topic>Recruiting and enlistment</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085186">
+        <topic>Military discharge</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2012002093">
+        <topic>Veteran reintegration</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2010119828">
+        <topic>World War, 1939-1945--Veterans--United States--Biography</topic>
+    </subject>
+    <subject autghority="naf" valueURI="http://id.loc.gov/authorities/names/n79063202">
+        <name>
+            <namePart>United States. Army</namePart>
+        </name>
+    </subject>
+    <subject autghority="naf" valueURI="http://id.loc.gov/authorities/names/n80126028">
+        <name>
+            <namePart>United States. Army Air Forces</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">sound recording</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
