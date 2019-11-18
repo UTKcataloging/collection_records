@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Photographs from the Life and Career of Howard Baker</title>
+    </titleInfo>
+    <abstract>This collection of photographs from the Howard Baker, Jr., collections at UT Libraries' Modern Political Archives illustrate some of the relationships and events of Howard Baker's remarkable public life.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1930</dateCreated>
+        <dateCreated encoding="edtf" point="end">2004</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <extent>245 photographs</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85106465">
+        <topic>Presidents--United States</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85047009">
+        <topic>Families</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041555">
+        <topic>Political campaigns</topic>
+    </subject>
+    <subject>
+        <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80015572">
+            <namePart>Baker, Howard H., Jr. (Howard Henry), 1925-2014</namePart>
+        </name>
+    </subject>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Howard H. Baker Jr. Addendum</title>
+        </titleInfo>
+        <identifier type="local">MPA.101.001</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
