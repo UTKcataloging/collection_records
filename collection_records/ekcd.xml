@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Crime Documents from the Estes Kefauver Collection</title>
+    </titleInfo>
+    <abstract>This digital collection includes press releases, speeches, article drafts, and government publications penned by Estes Kefauver and colleagues on the organized crime and juvenile delinquency commissions. Subjects include the causes and prevention of organized crime, gambling, and juvenile delinquency during the 1950s and early 1960s. Press releases tout committee milestones, government reports relate detailed data and testimony, and Kefauver’s own speeches reveal the fervent moral tone of his fight for the common good.</abstract>
+    <name authority="naf" type="personal" valueURI="http://id.loc.gov/authorities/names/n79144615">
+        <namePart>Kefauver, Estes, 1903-1963</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1950</dateCreated>
+        <dateCreated encoding="edtf" point="end">1961</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026931">drafts (documents)</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027267">reports</form>
+        <extent>82 documents</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85071166">
+        <topic>Juvenile delinquency</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85095528">
+        <topic>Organized crime</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85075833">
+        <topic>Legislative hearings</topic>
+    </subject>
+    <subject authority="naf" type="corporate" valueURI="http://id.loc.gov/authorities/names/n50081249">
+        <name>
+            <namePart>
+                United States. Congress. Senate. Special Committee to Investigate Organized Crime in Interstate Commerce
+            </namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem type="host" displayLabel="Collection">
+        <titleInfo>
+            <title>Estes Kefauver Papers</title>
+        </titleInfo>
+        <identifier>MPA.0307</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/page/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
