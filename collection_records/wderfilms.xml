@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>The William Derris Film Collection</title>
+    </titleInfo>
+    <abstract>William Derris, avid amateur photographer, videographer, and proprietor of the Derris Motel in Townsend, Tennessee, crisscrossed the Great Smoky Mountains by automobile, photographing and filming the iconic locales. The Derris film clips are paired with newly recorded music appropriate to the Great Smoky Mountains.</abstract>
+    <name>
+        <namePart>William Derris</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/vdg">Videographer</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Leslie Gengozian</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Steve White</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Chris Durman</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1941</dateCreated>
+        <dateCreated encoding="edtf" point="end">1949</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300429277">motion picture film</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300264679">8mm (size: videotape)</form>
+        <extent>14 film clips</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85087783">
+        <topic>Mountain life</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008120799">
+        <topic>Folk music--Appalachian Region, Southern</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85010201">
+        <topic>Automobiles</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+        <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    </subject>
+    <typeOfResource collection="yes">moving image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem type="host" displayLabel="Collection">
+        <titleInfo>
+            <title>William Derris Slide Collection</title>
+        </titleInfo>
+        <identifier>MS. 2123</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
