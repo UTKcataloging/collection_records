@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>The Vocational Voice: Journal of Ex-Service Men of UT</title>
+    </titleInfo>
+    <abstract>The Vocational Voice departmental newspaper was dedicated to the interests of the Vocational Department of the University of Tennessee in the mid-1920s. Its mission was to publish campus and national news of particular interest to vocational students, which the publication recognized as a student population comprised of primarily older war veterans who received career training year-round and whose information needs differed from the rest of the university’s student population at the time.</abstract>
+    <name type="corporate" valueURI="http://id.loc.gov/authorities/names/n80003887">
+        <namePart>University of Tennessee (Knoxville campus)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">1922</dateIssued>
+        <dateIssued encoding="edtf" point="end">1923</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>24 periodicals</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009123449">
+        <topic>
+            Disabled veterans-Vocational rehabilitation-United States
+        </topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008113196">
+        <topic>Veterans-Education-United States</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <classification authority="lcc">LH1.T2 V6</classification>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
