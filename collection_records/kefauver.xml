@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Estes Kefauver Image Collection</title>
+    </titleInfo>
+    <abstract>Collection of photographs spanning the life of East Tennessean politician Estes Kefauver.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1905</dateCreated>
+        <dateCreated encoding="edtf" point="end">1967</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <extent>315 photographs</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99004832">
+        <topic>Campaigns</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00005743">
+        <topic>Family</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85075851">
+        <topic>Legislators--United States</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140455">
+        <topic>United States--Politics and government--20th century</topic>
+    </subject>
+    <subject>
+        <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79144615">
+            <namePart>Kefauver, Estes, 1903-1963</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Estes Kefauver Papers, 1925-1967</title>
+        </titleInfo>
+        <identifier type="local">MPA.144</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
