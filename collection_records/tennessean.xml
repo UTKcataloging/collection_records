@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Tennessean: New Literary Magazine of the University of Tennessee</title>
+    </titleInfo>
+    <abstract>University of Tennessee students and faculty chartered The Tennessean in 1947 via the university’s Publications Council. The student-led literary magazine ran as a non-university funded publication under the direction of its own executive board. The Tennessean specifically served as a vehicle for students’ creative expression through fiction writing, poetry, book reviews, art criticism, photographs, and illustrations. This digital collection includes issues from March 1947 to March 1950.</abstract>
+    <name type="corporate" valueURI="http://id.loc.gov/authorities/names/n80003887">
+        <namePart>University of Tennessee (Knoxville campus)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1947</dateCreated>
+        <dateCreated encoding="edtf" point="end">1950</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>12 periodicals</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
+        <topic>College student newspapers and periodicals</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh88002030">
+        <topic>College students' writings</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077519">
+        <topic>Literature--History and criticism</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85004320">
+        <topic>American fiction--20th century</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066">
+        <topic>American poetry--20th century--Periodicals</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001184">
+        <topic>Advertising, Magazine</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification authority="lcc">LH1.T2 T4</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
