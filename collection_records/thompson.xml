@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+    <abstract>Brothers James E. (Jim) and Robin Thompson were professional photographers based in Knoxville, Tennessee, in the early twentieth century. The brothers began their careers working in the family photography business founded by their father in 1902. In 1920, Jim and Robin went into business together as Thompson Brothers Commercial Photographers. The photographs in this collection are not credited to a specific brother, but it is recognized that, as a passionate hiker, Jim took most of the photographs in the Smokies. Records show that Robin took the aerial photographs. This digital collection represents only a fraction of the Thompson Brothers' photographic work. It is a collaborative effort between several institutions. The individual photographs are from the Thompson Photograph Collection at the Calvin M. McClung Historical Collection at the Knox County Public Library, Knoxville, and the Albert "Dutch" Roth collection at the University of Tennessee Libraries Special Collections. The photo albums are from the Arnold Arboretum Horticultural Library and Archives at Harvard University, and the Charles E. Tutt Library at Colorado College.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2018075078">
+        <namePart>
+            Jim Thompson Company
+        </namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1920</dateCreated>
+        <dateCreated encoding="edtf" point="end">1940</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <extent>399 photographs</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145720">
+        <topic>Waterfalls</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2003004821">
+        <topic>Bodies of water</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+        <topic>Landscapes</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85090290">
+        <topic>Nature photography</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh86006260">
+        <geographic>LeConte, Mount (Tenn.)</geographic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+        <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>
+                A. G."Dutch" and Margaret Ann Roth Papers
+            </title>
+        </titleInfo>
+        <identifier>MS.3334</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/n78034834">
+            McClung Historical Collection
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
