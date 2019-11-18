@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>William Cox Cochran Photographic Collection</title>
+    </titleInfo>
+    <abstract>This collection contains 89 images of East Tennessee captured by William Cox Cochran from August 12th to 30th of 1886. The photographs are of East Tennessee people and landmarks, mostly located in what is now the Great Smoky Mountains National Park. There are many photographs of Chilhowee Range, Nebo Mountain, and Miller's Cove. The collection includes two photographs of the University of Tennessee-Knoxville. The photographic images in the collection were donated by Miss Mary Rudd Cochran, daughter of W.C. Cochran to the University of Tennessee Libraries in 1959.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n81147083">
+        <namePart>Cochran, William C. (William Cox), 1848-1936</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n93000394">
+        <namePart>Cochran, Mary Rudd, 1881-1982</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf">1886</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <extent>89 photographs</extent>
+    </physicalDescription>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001521">
+        <topic>Cabins</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2003004821">
+        <topic>Bodies of water</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85090290">
+        <topic>Nature photography</topic>
+    </subject>
+    <subject>
+        <geographic>Chilhowee Range</geographic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+        <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    </subject>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+    </language>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <relatedItem type="host" displayLabel="Collection">
+        <titleInfo>
+            <title>W. C. Cochran Photographs of the Great Smoky Mountains</title>
+        </titleInfo>
+        <identifier>MS.0552</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
