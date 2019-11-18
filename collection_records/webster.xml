@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Herbert M. Webster Photograph Collection</title>
+    </titleInfo>
+    <abstract>Herbert M. Webster first began chronicling his adventures into the Great Smoky Mountains on July 4, 1925 when, as a sixteen-year-old, he attended a Rotary Club camp for underprivileged boys on Little Pigeon Island in Gatlinburg. The next day, the boys from the camp hiked up the Rainbow Falls Trail to spend the night on Mount Le Conte in an old tar-paper pole cabin that stood just below Cliff Top. That evening the boys ventured out to Cliff Top and climbed a shaky-looking pole tower abandoned by surveyors, then returned to the cabin and bedded down for the night on boughs of balsams with a blanket for cover. On this first trip, Webster carried with him a small box camera, foretelling the beginning of a life-long avocation for photographing the Great Smoky Mountains. This collection contains over 500 of Webster's photographs.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019021769">
+        <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
+        <role>
+            <roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1926</dateCreated>
+        <dateCreated encoding="edtf" point="end">1955</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <extent>514 photographs</extent>
+    </physicalDescription>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010284">
+        <topic>Structures</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85090290">
+        <topic>Nature photography</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85060793">
+        <topic>Hiking</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006076">
+        <topic>Appalachian Trail</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+        <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem type="host" displayLabel="Collection">
+        <titleInfo>
+            <title>Herbert M. Webster Photographs</title>
+        </titleInfo>
+        <identifier>MS.3338</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>   
+</mods>
