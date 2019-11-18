@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Great Smoky Mountain Colloquy</title>
+    </titleInfo>
+    <abstract>The Great Smoky Mountains Colloquy was the biannual newsletter for the Great Smoky Mountains Regional Project. It contains stories about the Smokies, information on books and other published materials, reviews, and updates about the project.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n95109439">
+        <namePart>Wise, Ken</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html">Editor</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n88651816">
+        <namePart>Bridges, Anne</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html">Editor</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">2000</dateIssued>
+        <dateIssued encoding="edtf" point="end">2017</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">newsletters</form>
+        <extent>34 newsletters</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85015752">
+        <topic>Books--Reviews</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85087812">
+        <topic>Appalachians (People)</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85090290">
+        <topic>Nature photography</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+        <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2004028966">
+        <name>
+            <namePart>Great Smoky Mountains Regional Project</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification authority="lcc">F443.G7 G7283</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
