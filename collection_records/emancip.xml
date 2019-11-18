@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>The Emancipator</title>
+    </titleInfo>
+    <abstract>The Emancipator Newsletter, published monthly in Jonesborough, Tennessee in 1820 by Elihu Embree, advocated the abolition of slavery. Embree, a Quaker, had established what is probably the country's first anti-slavery paper in 1819, the Manumission Intelligencer, of which only one copy exists. This was followed by the Emancipator, a complete run of which exists at the Tennessee State Library. Publication of The Emancipator ended due to the death of Mr. Embree.</abstract>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/nr98029832">
+        <namePart>Embree, Elihu, 1782-1820</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/pbl">Publisher</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued encoding="edtf">1820</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>7 periodicals</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85123311">
+        <topic>Slave trade</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+        <topic>African Americans</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85123315">
+        <topic>Antislavery movements</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification authority="lcc">E446 .E48</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
