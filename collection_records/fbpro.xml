@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>The University of Tennessee Football Programs</title>
+    </titleInfo>
+    <abstract>The Volunteer Football Programs and Guides offer a unique glimpse into the history and traditions of the University of Tennessee football team. The Tennessee Volunteers have one of the most storied histories in college football and some of the most colorful traditions to match. Over the years, Volunteer football has been host to thrilling victories, crushing defeats, influential coaches, dedicated players, and enthusiastic fans.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1930</dateCreated>
+        <dateCreated encoding="edtf" point="end">2012</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+        <extent>589 programs</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405">
+        <topic>Football</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+        <topic>College sports</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627">
+        <name>
+            <namePart>Tennessee Volunteers (Football team)</namePart>
+        </name>
+    </subject>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <classification authority="lcc"> LD5296 .A8</classification>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
