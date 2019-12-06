@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Images of East Tennessee</title>
+    </titleInfo>
+    <abstract>Featuring postcards and photographs from the mid-nineteenth century through the late-twentieth century, this collection is particularly rich in images of Knoxville. It includes pictures of airports, homes, businesses, schools, churches, hospitals, vistas, people, and the 1982 World's Fair.</abstract>
+    <name valueURI="http://id.loc.gov/authorities/names/no2018123876">
+        <namePart>Robertson, Ernest Bryan, 1928-2011</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817">
+        <namePart>Thompson, James Edward, 1880-1976</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <name valueURI="http://id.loc.gov/authorities/names/n91037596">
+        <namePart>Hyde, Victor A. (Victor Albert)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1791</dateCreated>
+        <dateCreated encoding="edtf" point="end">2007</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/30004630">photographs</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127197">stereographs</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033618">paintings (visual works)</form>
+        <extent>329 phtographs, 152 postcards, 7 maps, 4 stereographs, 1 painting</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+        <topic>Knoxville (Tenn.)--History</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+        <topic>Architectural photography</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85046347">
+        <topic>Exhibition buildings</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026263">
+        <topic>City churches</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040261">
+        <topic>Dwellings--Tennessee</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009118693">
+        <topic>Central business districts--United States</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82114257">
+        <name>
+            <namePart>World's Fair of 1982 (Knoxville, Tenn.)</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92074</coordinates>
+        </cartographics>
+    </subject>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Photographs of Tennessee Cities Collection</title>
+        </titleInfo>
+        <identifier>MS.0951</identifier>
+        <location>
+            <url> https://n2t.net/ark:/87290/v8kd1w2w</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>Gay Street Viaduct</title>
+        </titleInfo>
+        <identifier type="pid">tenncities:472</identifier>
+        <abstract>The Gay Street Viaduct was constructed in 1919 when the street's north end was raised by 15 feet. A number of shops moved to locations under the new viaduct, where they prospered for many years. Unfortunately, the structure gradually fell into disrepair and was closed for demolition in November of 2005. It was replaced by a concrete viaduct in late 2006, which remains in use today.</abstract>
+        <originInfo>
+            <dateCreated>1924-1930</dateCreated>
+        </originInfo>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
