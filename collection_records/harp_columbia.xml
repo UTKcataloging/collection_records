@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
     <titleInfo>
-        <title>The harp of Columbia</title>
+        <title>The Harp of Columbia</title>
     </titleInfo>
-    <abstract>The harp of Columbia is a shape-note tunebook used in East Tennessee singing schools. It contains a variety of psalm and hymn tunes, odes and anthems, adapted for church services, singing-schools and societies. Preceding the songs are basic instructions on reading and interpreting notated music.</abstract>
+    <abstract>The Harp of Columbia is a shape-note tunebook published in 1857 that was used in East Tennessee singing schools. It contains a variety of psalm and hymn tunes, odes and anthems, adapted for church services, singing-schools and societies.</abstract>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2002022963">
         <namePart>Swan, W. H. (William H.)</namePart>
         <role>
