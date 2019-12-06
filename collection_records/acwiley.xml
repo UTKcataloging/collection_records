@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Anna Catherine Wiley Sketches</title>
+    </titleInfo>
+    <name valueURI="http://id.loc.gov/authorities/names/nr92031762">
+        <namePart>Wiley, Catherine, 1879-1958</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+        </role>
+    </name>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1895</dateCreated>
+        <dateCreated encoding="edtf" point="end">1911</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <abstract>Approximately 150 of Wiley's works are shared in this collection. They include figure drawings, pencil sketches, and bookplate designs as well as her ink illustrations for the University of Tennessee’s yearbook, The Volunteer.</abstract>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027221">posters</form>
+        <extent>179 sketches, 14 letters, 2 posters</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147447">
+        <topic>Women artists</topic>
+    </subject>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961">
+        <topic>Figure drawings</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554">
+        <topic>Women in art</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526">
+        <topic>Men in art</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85149058">
+        <topic>Yearbooks</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92074</coordinates>
+        </cartographics>
+    </subject>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Anna Catherine Wiley Sketches Collection</title>
+        </titleInfo>
+        <identifier>MS.1287</identifier>
+        <location>
+            <url>https://n2t.net/ark:/87290/v8vx0dpf</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>Yearbook Illustrations in Ink: Academic</title>
+        </titleInfo>
+        <identifier type="pid">acwiley:427</identifier>
+        <abstract>Illustration, inks.</abstract>
+        <originInfo>
+            <dateCreated>1895-1897</dateCreated>
+        </originInfo>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

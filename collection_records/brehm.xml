@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title>
+    </titleInfo>
+    <abstract>Selected material from the C. E. Brehm (1889-1971) President of the University of Tennessee papers from 1946 to 1959. Among the subjects represented in his collection are athletics, student organizations, university property acquisitions, and desegregation.</abstract>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1948</dateCreated>
+        <dateCreated encoding="edtf" point="end">1959</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+        <extent>34 documents</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306">
+        <topic>College integration</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029">
+        <topic>African Americans--Education--Southern States</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962">
+        <topic>African Americans--Legal status, laws, etc</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003887">
+        <name>
+            <namePart>University of Tennessee (Knoxville campus)</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>University of Tennessee Office of the President Records 1948-1959</title>
+        </titleInfo>
+        <identifier>AR.0006</identifier>
+        <location>
+            <url>https://n2t.net/ark:/87290/v8416v6b</url>
+        </location>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
