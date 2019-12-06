@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Nineteenth and Early Twentieth Century Images of Egypt</title>
+    </titleInfo>
+    <name valueURI="http://vocab.getty.edu/ulan/500033408">
+        <namePart>Adelphoi Zangaki</namePart>
+        <namePart type="date">1860-1889</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <name type="personal" valueURI="http://vocab.getty.edu/ulan/500356123">
+        <namePart>Sébah, Jean Pascal</namePart>
+        <namePart type="date">1872-1947</namePart>
+        <description>Turkish</description>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <name type="corporate" valueURI="http://vocab.getty.edu/ulan/500033390">
+        <namePart>G. Lékégian &amp; Cie.</namePart>
+        <namePart type="date">ca.1865-ca. 1895</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <name type="personal" valueURI="http://id.loc.gov/authorities/names/n82015594">
+        <namePart>Brugsch-Bey, Emil, 1842-</namePart>
+        <namePart type="date">1842-1930</namePart>
+        <description>German</description>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1851</dateCreated>
+        <dateCreated encoding="edtf" point="end">1932</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <abstract>Featured in this collection are over 200 photographs held by the Frank H. McClung Museum, including the work of well-known pioneering photographers of Egypt such as Felix Bonfils, J. Pascal Sébah, and the Zangaki Brothers.</abstract>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127121">albumen prints</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300128695">gelatin silver prints</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300115233">sepia prints</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127145">platinum prints</form>
+        <extent>231 photographs</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009125211">
+        <topic>Egypt--Antiquities--Pictorial works</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh86003616">
+        <topic>Egypt--Foreign relations--19th century</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh86003625">
+        <topic>Egypt--Foreign relations--20th century</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85137164">
+        <topic>Travel photography</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041273">
+        <topic>Egypt--Description and travel</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/n99833387">
+        <topic>Orientalism</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85135940">
+        <topic>Tombs--Egypt</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133744">
+        <topic>Temples--Egypt</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041341">
+        <topic>Inscriptions, Egyptian</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh95004589">
+        <topic>Relief (Sculpture), Egyptian</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80061791">
+        <geographic>Egypt</geographic>
+        <cartographics>
+            <coordinates>27, 30</coordinates>
+        </cartographics>
+    </subject>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017033007">
+            Frank H. McClung Museum of Natural History and Culture
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">
+            Frank H. McClung Museum of Natural History and Culture
+        </recordContentSource>
+        <languageOfCataloging>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>
