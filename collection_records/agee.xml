@@ -1,12 +1,10 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
     <titleInfo>
         <title>
-            Dedication of the James Agee Memorial Library photograph album
+            Dedication of the James Agee Memorial Library Photograph Album
         </title>
     </titleInfo>
-    <abstract>
-        Program notes and photographs of Agee Week and the Dedication of the James Agee Memorial Library at the St. Andrew's School in St. Andrew's, Tennessee during the week of October 9-14, 1972. (In 1981, the school merged with Sewanee Academy to form St. Andrew's-Sewanee School.)
-    </abstract>
+    <abstract>Program notes and photographs of Agee Week and the Dedication of the James Agee Memorial Library at the St. Andrew's School in St. Andrew's, Tennessee during the week of October 9-14, 1972.</abstract>
     <originInfo>
         <dateCreated qualifier="inferred">1972</dateCreated>
         <dateCreated qualifier="inferred" encoding="edtf" keyDate="yes" point="start">1972</dateCreated>
