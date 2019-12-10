@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>University of Tennessee Sheet Music Collection</title>
+    </titleInfo>
+    <abstract>UT Libraries has a large collection of sheet music for voice and piano published between the early 1800s and the mid-1900s. Musical genres represented in the collection include marches, waltzes, and polkas. Common subjects for lyrics and cover illustrations include Tennessee, patriotism, and sailing.</abstract>
+    <name type="personal" authority="naf" valueURI="http://id.loc.gov/authorities/names/n89627222">
+        <namePart>Grobe, Charles</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="naf" valueURI="http://id.loc.gov/authorities/names/n82096344">
+        <namePart>Weatherly, F. E. (Frederic Edward), 1848-1929</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="naf" valueURI="http://id.loc.gov/authorities/names/n87909937">
+        <namePart>Allen, Ronald R. (Ronald Roger), 1934-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1812</dateCreated>
+        <dateCreated encoding="edtf" point="end">1923</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+        <extent>2371 compositions</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125211">
+        <topic>Songs with piano</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088865">
+        <topic>Popular music</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85144994">
+        <topic>Waltzes</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85080997">
+        <topic>Marches (Piano)</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104482">
+        <topic>Polkas</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008113367">
+        <topic>World War, 1914-1918--Songs and music</topic>
+    </subject>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" type="text">French</languageTerm>
+        <languageTerm authority="iso639-2b" type="text">German</languageTerm>
+        <languageTerm authority="iso639-2b" type="text">Italian</languageTerm>
+        <languageTerm authority="iso639-2b" type="text">Spanish</languageTerm>
+    </language>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <typeOfResource collection="yes">notated music</typeOfResource>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Sheet Music Collection</title>
+        </titleInfo>
+        <identifier>MS.1575</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v8c24tkm</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Sheet Music Collection</title>
+        </titleInfo>
+        <identifier>MS.1231</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v87942v8</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Grace Moore Papers, 1837-1991</title>
+        </titleInfo>
+        <identifier>MS.3666</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v83j3b4z</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Sheet Music Collection</title>
+        </titleInfo>
+        <identifier>MS.2187</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v8gq6vxr</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Sheet Music Collection</title>
+        </titleInfo>
+        <identifier>MS.3042</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v8r78cbr</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Tennessee Sheet Music Collection</title>
+        </titleInfo>
+        <identifier>MS.3254</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v8mg7mng</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Tennessee Sheet Music Collection</title>
+        </titleInfo>
+        <identifier>MS.3254</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v8mg7mng</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Francelia Butler Collection on the Ruskin Co-operative Association</title>
+        </titleInfo>
+        <identifier>MS.1014</identifier>
+        <location>
+            <url>http://n2t.net/ark:/87290/v8zs2tn8</url>
+        </location>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
