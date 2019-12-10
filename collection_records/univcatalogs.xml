@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
     <titleInfo>
-        <title>University of Tennessee catalogs online</title>
+        <title>University of Tennessee Catalogs</title>
     </titleInfo>
-    <abstract>Online archive of past course catalogs for graduate and undergraduate students at the University of Tennessee, Knoxville.</abstract>
+    <abstract>Online archive of past course catalogs for graduate and undergraduate students at the University of Tennessee, Knoxville, dating from 1975.</abstract>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889">
         <namePart>University of Tennessee, Knoxville</namePart>
         <role>
