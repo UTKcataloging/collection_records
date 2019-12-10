@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>University monthly</title>
+    </titleInfo>
+    <abstract>Monthly newspaper jointly published by East Tennessee University literary societies Chi Delta and the Philomathesian for the purpose of improving current students’ composition skills and connecting alumni back to the university.</abstract>
+    <name type="corporate" valueURI="http://id.loc.gov/authorities/names/nr95035347">
+        <namePart>East Tennessee University</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1875</dateCreated>
+        <dateCreated encoding="edtf" point="end">1876</dateCreated>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form>
+        <extent>13 issues</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
+        <topic>College student newspapers and periodicals</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2008074606">
+        <topic>19th century U.S. newspapers</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+        <topic>Knoxville (Tenn.)--History</topic>
+    </subject>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

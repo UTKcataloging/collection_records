@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Tennessee Alumnus</title>
+    </titleInfo>
+    <abstract>The Tennessee Alumnus, established in 1917, is published three times a year for the University of Tennessee Alumni Association and distributed to recent graduates and donors. It covers recent innovations, personal stories, and news.</abstract>
+    <originInfo>
+        <dateIssued encoding="edtf" point="start">1917</dateIssued>
+        <dateCreated point="end">present</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>395+ periodicals</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271">
+        <topic>
+            Universities and colleges--Alumni and alumnae--United States
+        </topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85108794">
+        <topic>Universities and colleges--Public relations</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028332">
+        <topic>College publications</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2017180154">
+        <name>
+            <namePart>University of Tennessee</namePart>
+        </name>
+    </subject>
+    <subject>
+        <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064N, 83.92074W</coordinates>
+        </cartographics>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification authority="lcc">LH1.T2 T34</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
