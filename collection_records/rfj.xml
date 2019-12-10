@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
     <titleInfo>
-        <title>Tales from the woods</title>
+        <title>Tales from the Woods</title>
     </titleInfo>
-    <abstract>Personal journal of Albert G. "Dutch" Roth, documenting hikes in the Great Smoky Mountains area through stories and photographs spanning 1924-1959. With his camera and typewriter, Dutch records observations of the people and places of the mountains from 728 documented hikes.</abstract>
+    <abstract>Personal journal of Albert G. "Dutch" Roth, documenting hikes in the Great Smoky Mountains area through stories and photographs spanning 1924-1959.</abstract>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2004050214">
         <namePart>Roth, Albert, 1890-1974</namePart>
         <role>
