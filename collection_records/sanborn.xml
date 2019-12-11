@@ -9,7 +9,7 @@
             <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
         </role>
     </name>
-    <abstract>The Sanborn Fire Insurance Maps are a large-scale representation of the growth and layout of American cities. The University of Tennessee Libraries' collection currently provides digital versions of the earliest sets of Knoxville maps - 1884, 1890, 1903, 1917, and 1922.</abstract>
+    <abstract>The Sanborn Fire Insurance Maps show the growth and layout of American cities. This collection provides access to the earliest sets of Knoxville maps - 1884, 1890, 1903, 1917, and 1922.</abstract>
     <originInfo>
         <dateCreated encoding="edtf" point="start">1884</dateCreated>
         <dateCreated encoding="edtf" point="end">1922</dateCreated>
