@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>David Van Vactor Music Collection</title>
+    </titleInfo>
+    <abstract>The David Van Vactor Music Collection includes multiple drafts and final versions of musical compositions which allow researchers to study Van Vactor’s process of composition, from writing and revising to working with his transcriptionist and publisher.</abstract>
+    <name type="personal" authority="naf" valueURI="http://id.loc.gov/authorities/names/n82001311">
+        <namePart>Van Vactor, David, 1906-1994</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+        </role>
+    </name>
+    <typeOfResource collection="yes">notated music</typeOfResource>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1924</dateCreated>
+        <dateCreated encoding="edtf" point="end">1994</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores (documents for music)</form>
+        <extent>476 scores</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088803">
+        <topic>Music--Manuscripts</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089025">
+        <topic>Musical sketches</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85131473">
+        <topic>Symphonies</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85095326">
+        <topic>Orchestral music</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85139020">
+        <temporal>Twentieth century</temporal>
+    </subject>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>David Van Vactor Papers</title>
+        </titleInfo>
+        <identifier>MS.1942</identifier>
+        <location>
+            <url>https://n2t.net/ark:/87290/v8pz5703</url>
+        </location>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
