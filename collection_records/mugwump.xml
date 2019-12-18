@@ -23,6 +23,16 @@
     </subject>
     <typeOfResource collection="yes">text</typeOfResource>
     <classification authority="lcc">LH1.T2 M8</classification>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>Mugwump, volume 11, number 6</title>
+        </titleInfo>
+        <identifier type="pid">mugwump:3380</identifier>
+        <abstract>Monthly student publication that highlights student life issues, sports, literary critiques, poetry, as well as cartoons and art work.</abstract>
+        <originInfo>
+            <dateIssued>March 1931</dateIssued>
+        </originInfo>
+    </relatedItem>
     <language>
         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
     </language>
