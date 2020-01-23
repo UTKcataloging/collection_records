@@ -42,7 +42,7 @@
        </name>
     </subject>
     <typeOfResource collection="yes">text</typeOfResource>
-    <typeOfResource collection="yes">image</typeOfResource>
+    <typeOfResource collection="yes">still image</typeOfResource>
     <language>
         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
     </language>
