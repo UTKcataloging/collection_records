@@ -5,6 +5,7 @@
     </titleInfo>
     <abstract>Tennessee Farm News is a series of weekly news releases published by the University of Tennessee Extension Service between 1918 through 1989. Announcements cover historical crop yields, market prices, farm facts, home economics, and 4-H club updates.</abstract>
     <originInfo>
+        <dateIssued>1918-1989</dateIssued>
         <dateIssued encoding="edtf" point="start">1918</dateIssued>
         <dateIssued encoding="edtf" point="end">1989</dateIssued>
         <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>

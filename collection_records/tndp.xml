@@ -5,6 +5,7 @@
     </titleInfo>
     <abstract>The Tennessee Newspaper Digitization Project (TNDP) is a partnership between the University of Tennessee and the Tennessee State Library and Archives. The project provides access to a selection of Tennessee's historical newspapers.</abstract>
     <originInfo>
+        <dateCreated>1861-1922</dateCreated>
         <dateCreated encoding="edtf" point="start">1861</dateCreated>
         <dateCreated encoding="edtf" point="end">1922</dateCreated>
     </originInfo>

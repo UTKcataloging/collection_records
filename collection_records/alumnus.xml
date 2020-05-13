@@ -5,8 +5,9 @@
     </titleInfo>
     <abstract>The Tennessee Alumnus, established in 1917, is published three times a year for the University of Tennessee Alumni Association and distributed to recent graduates and donors. It covers recent innovations, personal stories, and news.</abstract>
     <originInfo>
+        <dateIssued>1917-present</dateIssued>
         <dateIssued encoding="edtf" point="start">1917</dateIssued>
-        <dateCreated point="end">present</dateCreated>
+        <dateIssued point="end">present</dateIssued>
     </originInfo>
     <physicalDescription>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
