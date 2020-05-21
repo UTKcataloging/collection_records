@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Greer and Vinsinger Family Collection of American Revolutionary War Documents</title>
+    </titleInfo>
+    <abstract>These documents are addressed to or refer to Colonel Anthony Walton White. The earlier letters are personal or military correspondence, while the later materials document White's efforts to reclaim part of his lost fortune for a memorial in his name.</abstract>
+    <originInfo>
+        <datedCreated>1780-1845</datedCreated>
+        <dateCreated encoding="edtf" point="start">1780</dateCreated>
+        <dateCreated encoding="edtf" point="end">1845</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+        <extent>12 letters, 2 documents</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140139">
+        <topic>United States -- History -- Revolution, 1775-1783</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026530">
+        <topic>Claims</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh87006847">
+        <topic>United States. Congress--History</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n85271870">
+        <name>
+            <namePart>White, Anthony Walton, 1750-1803</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n78095586">
+        <name>
+            <namePart>Buchanan, James, 1791-1868</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79139464">
+        <name>
+            <namePart>Gates, Horatio, 1728-1806</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79021633">
+        <name>
+            <namePart>Hamilton, Alexander, 1757-1804</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80038471">
+        <name>
+            <namePart>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n92016487">
+        <name>
+            <namePart>Muhlenberg, John Peter Gabriel, 1746-1807</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n85137031">
+        <name>
+            <namePart>Rutledge, Edward, 1749-1800</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n85089057">
+        <name>
+            <namePart>Tarleton, Lieutenant-General, (Banastre), 1754-1833</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n86140996">
+        <name>
+            <namePart>Washington, George, 1732-1799</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n86104999">
+        <name>
+            <namePart>Wolcott, Oliver, 1760-1833</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Greer and Vinsinger Family Collection of Revolutional War Documents</title>
+        </titleInfo>
+        <identifier>MS.3518</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
