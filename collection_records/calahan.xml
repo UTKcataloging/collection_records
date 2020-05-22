@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Calahan Family Postcards</title>
+    </titleInfo>
+    <abstract>The eight postcards in this collection are to and from members of the Calahan family between 1916 and 1941. Arthur Calahan was part of the 30th Division, 113th Regiment Supply Company which fought in the World War I Battle of Ypres, Belgium.</abstract>
+    <name>
+        <namePart>Calahan, Arthur</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Calahan, Gertie</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Calahan, Cornelius Vernon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Calahan, Ralph</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <datedCreated>1916-1941</datedCreated>
+        <dateCreated encoding="edtf" point="start">1916</dateCreated>
+        <dateCreated encoding="edtf" point="end">1941</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+        <extent>8 postcards</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148236">
+        <topic>World War, 1914-1918</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh95007145">
+        <topic>War and families</topic>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Calahan Family Postcards</title>
+        </titleInfo>
+        <identifier>MS.2379</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
