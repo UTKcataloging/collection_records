@@ -3,7 +3,7 @@
     <titleInfo>
         <title>Ramsey Family Letters</title>
     </titleInfo>
-    <abstract><!--  --></abstract>
+    <abstract>James Gettys McGready Ramsey (1791-1884) was a prominent physician in East Tennessee who was also active in politics, banking, railroads and more. Spanning over 120 years, the papers in this collection provide insight into East Tennessee history and the Civil War.</abstract>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n88068114">
         <namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</namePart>
         <role>
@@ -50,7 +50,7 @@
             <namePart>Mecklenburg Declaration of Independence</namePart>
         </name>
     </subject>
-    <subject authority="naf" valueURI="Knoxville (Tenn.)"
+    <subject authority="naf" valueURI="Knoxville (Tenn.)">
         <geographic>Knoxville (Tenn.)</geographic>
     </subject>
     <typeOfResource collection="yes">text</typeOfResource>
