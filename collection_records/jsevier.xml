@@ -52,7 +52,7 @@
             <namePart>Overton, John, 1766-1833</namePart>
         </name>
     </subject>
-    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965"
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965">
         <geographic>Tennessee</geographic>
     </subject>
     <typeOfResource collection="yes">text</typeOfResource>
