@@ -10,14 +10,14 @@
             <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
         </role>
     </name>
-    <name>
-        <namePart>Sturley, Ruth</namePart>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468">
+        <namePart>Sturley, Ruth E., 1886-1966</namePart>
         <role>
             <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
         </role>
     </name>
-    <name>
-        <namePart>Moorehead, Rosemary</namePart>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020050940">
+        <namePart>Barnwell, Rosemary Jane Moorehead, 1913-2003</namePart>
         <role>
             <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
         </role>
