@@ -4,6 +4,11 @@
         <title>Virginia P. Moore Collection</title>
     </titleInfo>
     <abstract>Virginia Pearl Moore was the first home demonstration agent in Tennessee. Her home demonstration work expanded to incorporate all aspects of domestic life, including cooking, canning, sewing, cleaning, and managing home finances.</abstract>
+    <originInfo>
+        <dateCreated>1907-1936</dateCreated>
+        <dateCreated encoding="edtf" point="start">1907</dateCreated>
+        <dateCreated encoding="edtf" point="start">1936</dateCreated>
+    </originInfo>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal">
         <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
         <role>
