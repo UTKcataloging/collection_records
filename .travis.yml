@@ -1,0 +1,17 @@
+language: bash
+dist: xenial
+os: linux
+
+addons:
+  apt:
+    packages:
+      - libxml2-utils
+      - shunit2
+
+notifications:
+  email:
+    false
+
+script:
+  - cd tests
+  - ./validate_records.sh
