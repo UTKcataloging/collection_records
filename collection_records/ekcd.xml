@@ -29,7 +29,7 @@
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85075833">
         <topic>Legislative hearings</topic>
     </subject>
-    <subject authority="naf" type="corporate" valueURI="http://id.loc.gov/authorities/names/n50081249">
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50081249">
         <name>
             <namePart>
                 United States. Congress. Senate. Special Committee to Investigate Organized Crime in Interstate Commerce

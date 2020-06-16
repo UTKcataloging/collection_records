@@ -28,12 +28,12 @@
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2010119828">
         <topic>World War, 1939-1945--Veterans--United States--Biography</topic>
     </subject>
-    <subject autghority="naf" valueURI="http://id.loc.gov/authorities/names/n79063202">
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79063202">
         <name>
             <namePart>United States. Army</namePart>
         </name>
     </subject>
-    <subject autghority="naf" valueURI="http://id.loc.gov/authorities/names/n80126028">
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80126028">
         <name>
             <namePart>United States. Army Air Forces</namePart>
         </name>
