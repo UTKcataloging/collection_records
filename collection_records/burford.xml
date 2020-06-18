@@ -7,7 +7,7 @@
     <name>
         <namePart>Burford, David</namePart>
         <role>
-            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
         </role>
     </name>
     <originInfo>
