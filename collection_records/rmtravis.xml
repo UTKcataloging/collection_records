@@ -3,7 +3,7 @@
     <titleInfo>
         <title>Robert Morris Travis Letters</title>
     </titleInfo>
-    <abstract>This collection contains letters from Robert Morris Travis to his nephew, Wesley Travis Kennerly, capturing his time in the Philippines during the Spanish-American War. R.M. Morris served as a private, corporal, and sergeant in the U. S. Army's 4th Infantry.</abstract>
+    <abstract>This collection contains letters from Robert Morris Travis to his nephew, Wesley Travis Kennerly, during the Philippine-American War. R.M. Travis served as a private, corporal, and sergeant in the U. S. Army's 4th Infantry.</abstract>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020072426">
         <namePart>Travis, Robert Morris, 1857-1941</namePart>
         <role>
@@ -25,11 +25,8 @@
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
         <extent>5 letters</extent>
     </physicalDescription>
-    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140286">
-        <topic>Spanish-American War, 1898</topic>
-    </subject>
-    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91001065">
-        <topic>Spanish-American War, 1898--Campaigns--Philippines</topic>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100792">
+        <topic>Philippines--History--Philippine American War, 1899-1902</topic>
     </subject>
     <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2006028605">
         <name>
