@@ -17,6 +17,7 @@
     </originInfo>
     <physicalDescription>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027112">diaries</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026695">photograph albums</form>
         <extent>7 items</extent>
     </physicalDescription>
@@ -29,10 +30,15 @@
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026980">
         <topic>Clergy, Writings of</topic>
     </subject>
-    <subject authority="naf" valueURI="http://id.loc.gov/authorities/subjects/sh85082617">
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79058456">
         <name>
-            <namePart>Denali, Mount (Alaska)</namePart>
+            <namePart>Episcopal Church</namePart>
         </name>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85082617">
+        <geographic>
+            <namePart>Denali, Mount (Alaska)</namePart>
+        </geographic>
     </subject>
     <typeOfResource collection="yes">text</typeOfResource>
     <typeOfResource collection="yes">still image</typeOfResource>
