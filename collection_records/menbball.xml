@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>University of Tennessee Volunteers Basketball Media Guides</title>
+    </titleInfo>
+    <abstract>This collection shares the annually-published men's basketball media guides, from 1952 to 1980. Athletes featured include Olympic gold medalists, like Ernie Grunfeld. Remember the triumphs and challenges of the teams during the leadership of coaches like Emmett Lowery and Ray Mears.</abstract>
+    <originInfo>
+        <dateIssued>1952-1980</dateIssued>
+        <dateIssued encoding="edtf" point="start">1952</dateIssued>
+        <dateIssued encoding="edtf" point="end">1980</dateIssued>
+        <publisher>
+            University of Tennessee, Knoxville. Department of Athletics
+        </publisher>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+        <extent>27 booklets</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012111">
+        <topic>Basketball</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012123">
+        <topic>Basketball players</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+        <topic>College sports</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92074</coordinates>
+        </cartographics>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646712">
+        <name>
+            <namePart>Tennessee Volunteers (Basketball team)</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003855">
+        <name>
+            <namePart>University of Tennessee, Knoxville</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification authority="lcc">LD5296.A6</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
+</mods>

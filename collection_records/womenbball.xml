@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>University of Tennessee Lady Volunteers Basketball Media Guides</title>
+    </titleInfo>
+    <abstract>This collection shares the annually-published Lady Volunteers basketball media guides, from 1979 to 2010. Featured are the years the team was led by Pat Summitt, who holds the record for the most all-time wins by a Division I college basketball coach.</abstract>
+    <originInfo>
+        <dateIssued>1979-2010</dateIssued>
+        <dateIssued encoding="edtf" point="start">1979</dateIssued>
+        <dateIssued encoding="edtf" point="end">2010</dateIssued>
+        <publisher>
+            University of Tennessee, Knoxville. Department of Athletics
+        </publisher>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+        <extent>21 booklets</extent>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012111">
+        <topic>Basketball</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434">
+        <topic>College sports for women</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+        <topic>College sports</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012123">
+        <topic>Basketball players</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147485">
+        <topic>Women basketball players</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889">
+        <name>
+            <namePart>University of Tennessee, Knoxville</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n88072771">
+        <name>
+            <namePart>Summitt, Pat Head, 1952-2016</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n88072776">
+        <name>
+            <namePart>Lady Volunteers (Basketball team)</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92074</coordinates>
+        </cartographics>
+    </subject>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>Cover of Tennessee Lady Volunteers Basketball Media Guide</title>
+        </titleInfo>
+        <identifier type="pid">womenbball:1285</identifier>
+        <abstract>Lady Volunteers basketball program published in 2001.</abstract>
+        <originInfo>
+            <dateIssued>2001</dateIssued>
+        </originInfo>
+    </relatedItem>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification authority="lcc">LD5296.A7</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
