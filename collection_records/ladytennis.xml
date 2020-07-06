@@ -60,7 +60,7 @@
             <coordinates>35.96064, -83.92074</coordinates>
         </cartographics>
     </subject>
-    <typeOfResource>text</typeOfResource>
+    <typeOfResource collection="yes">text</typeOfResource>
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
     </location>
