@@ -54,5 +54,7 @@
     <recordInfo>
         <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
     </recordInfo>
-    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/page/NoC-US/1.0/">No Copyright - United States</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-RUU/1.0/">In Copyright - Rights-holder(s) Unlocatable or Unidentifiable</accessCondition>
 </mods>
