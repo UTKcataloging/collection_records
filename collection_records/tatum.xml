@@ -4,7 +4,7 @@
         <title>Robert G. Tatum Collection</title>
     </titleInfo>
     <abstract>A collection of diaries written by Robert Tatum, who was among the first expedition to climb Mount Denali (previously known as Mount McKinley), the tallest peak in North America. Photographs of the historic 1913 climb are also included.</abstract>
-    <name>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020081602">
         <namePart>Tatum, Robert G. (Robert George), 1891-1964</namePart>
         <role>
             <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
