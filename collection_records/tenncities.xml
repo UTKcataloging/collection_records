@@ -37,7 +37,7 @@
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127197">stereographs</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033618">paintings (visual works)</form>
-        <extent>329 phtographs, 152 postcards, 7 maps, 4 stereographs, 1 painting</extent>
+        <extent>329 photographs, 152 postcards, 7 maps, 4 stereographs, 1 painting</extent>
     </physicalDescription>
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
         <topic>Knoxville (Tenn.)--History</topic>
