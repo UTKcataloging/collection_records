@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>The humming humbug</title>
+    </titleInfo>
+    <abstract>The Humming Humbug, or "A Lean Destructive Snoozepaper," ran as a parody supplement to The Orange and White student newspaper. Its articles provided humorous commentary on academics and student life occurring on the University of Tennessee, Knoxville campus.</abstract>
+    <name type="corporate" authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003887">
+        <namePart>University of Tennessee (Knoxville campus)</namePart>
+        <role>
+            <roleTerm authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>1922-1924</dateIssued>
+        <dateIssued encoding="edtf" point="start" keyDate="yes">1922</dateIssued>
+        <dateIssued encoding="edtf" point="end">1924</dateIssued>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form>
+        <extent>2 issues</extent>
+    </physicalDescription>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
+        <topic>College student newspapers and periodicals</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843">
+        <topic>American wit and humor--Periodicals</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh94007537">
+        <topic>Parody in literature</topic>
+    </subject>
+    <note>Publications by students</note>
+    <typeOfResource>text</typeOfResource>
+    <classification>LH1.T2 H85</classification>
+    <language>
+        <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+        <languageOfCataloging>
+            <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>
+            Created and edited in general conformance to MODS Guidelines (Version 3.5).
+        </recordOrigin>
+    </recordInfo>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
