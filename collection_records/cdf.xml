@@ -12,7 +12,7 @@
     </originInfo>
     <physicalDescription>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027267">reports</form>
-        <form authority="aat" valueURI="">motion pictures (visual works)</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
         <extent>176 reports</extent>
         <extent>23 motion pictures</extent>
         <digitalOrigin>reformatted digital</digitalOrigin>
