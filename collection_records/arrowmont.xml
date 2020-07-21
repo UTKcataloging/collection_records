@@ -13,7 +13,7 @@
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300417283">lesson plans</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
-        <form authority="aat" valueURI="http://id.loc.gov/authorities/names/n86710275">scrapbooks</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027341">scrapbooks</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300010666">pottery (visual works)</form>
         <extent>460 photographs, 9 lesson plans, 316 periodicals, 5 scrapbooks, 19 pieces of pottery</extent>
     </physicalDescription>

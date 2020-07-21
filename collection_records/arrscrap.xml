@@ -40,7 +40,7 @@
         <dateCreated encoding="edtf" point="end">1941</dateCreated>
     </originInfo>
     <physicalDescription>
-        <form authority="aat" valueURI="http://id.loc.gov/authorities/names/n86710275">scrapbooks</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027341">scrapbooks</form>
         <extent>5 scrapbooks</extent>
     </physicalDescription>
     <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
