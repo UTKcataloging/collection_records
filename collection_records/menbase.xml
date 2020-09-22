@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo supplied="yes">
+        <title>University of Tennessee Volunteers Baseball Media Guides</title>
+    </titleInfo>
+    <abstract>Featured in this collection are baseball guides published between 1982 and 2011. Particularly well represented are the 18 years the team was coached by Rod Delmonico. During this time, the team won the conference championships twice.</abstract>
+    <originInfo>
+        <dateIssued>1982, 1985-1987, 1989-1990, 1992-1997, 1999-2011</dateIssued>
+        <dateIssued encoding="edtf" point="start">1982</dateIssued>
+        <dateIssued encoding="edtf" point="end">2011</dateIssued>
+        <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>31 guides</extent>
+    </physicalDescription>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85012026">
+        <topic>Baseball</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85011217">
+        <topic>Ball games</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85012045">
+        <topic>Baseball players</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+        <topic>College sports</topic>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7812580">
+        <name>
+            <namePart>Todd Raleigh</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q99521576">
+        <name>
+            <namePart>John Whited</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q5972562">
+        <name>
+            <namePart>Rod Delmonico</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q6767131">
+        <name>
+            <namePart>Mark Connor</namePart>
+        </name>
+    </subject>
+    <subject authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n80003889">
+        <name>
+            <namePart>University of Tennessee, Knoxville</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700232">
+        <name>
+            <namePart>Tennessee Volunteers baseball</namePart>
+        </name>
+    </subject>
+    <subject authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92106</coordinates>
+        </cartographics>
+    </subject>
+    <language>
+        <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+    </language>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
