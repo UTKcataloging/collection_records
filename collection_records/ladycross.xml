@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>University of Tennessee Lady Volunteers Cross Country Media Guides</title>
+    </titleInfo>
+    <abstract>This collection shares the women's cross country media guides from 1981 to 2008. During this period, the team won the conference championship five times.</abstract>
+    <originInfo>
+        <dateIssued>1981-1982, 1985-2008</dateIssued>
+        <dateIssued encoding="edtf" point="start">1981</dateIssued>
+        <dateIssued encoding="edtf" point="end">2008</dateIssued>
+        <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>26 guides</extent>
+    </physicalDescription>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh90004401">
+        <topic>Cross-country running</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh2004010434">
+        <topic>College sports for women</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+        <topic>College sports</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh2008001260">
+        <topic>Long-distance running</topic>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98805976">
+        <name>
+            <namePart>Terry Crawford</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98714305">
+        <name>
+            <namePart>J. J. Clark</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q85304029">
+        <name>
+            <namePart>Missy Kane</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q85304029">
+        <name>
+            <namePart>Ann Bertucci</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98806737">
+        <name>
+            <namePart>Gary Schwartz</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98806883">
+        <name>
+            <namePart>Brenda Webb</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98714915">
+        <name>
+            <namePart>Rodney Rothoff</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q85304029">
+        <name>
+            <namePart>Dorothy Doolittle</namePart>
+        </name>
+    </subject>
+    <subject authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n80003889">
+        <name>
+            <namePart>University of Tennessee, Knoxville</namePart>
+        </name>
+    </subject>
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700101">
+        <name>
+            <namePart>Tennessee Lady Volunteers cross country</namePart>
+        </name>
+    </subject>
+    <subject authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92074</coordinates>
+        </cartographics>
+    </subject>
+    <language>
+        <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+    </language>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
