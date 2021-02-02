@@ -34,27 +34,27 @@
         valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
         <topic>College sports</topic>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600543">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600543">
         <name>
             <namePart>Chuck Rohe</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97599957">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97599957">
         <name>
             <namePart>Connie Smith</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q27928526">
         <name>
             <namePart>Stan Huntsman</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326">
         <name>
             <namePart>Doug Brown</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280">
         <name>
             <namePart>George Watts</namePart>
         </name>
@@ -65,7 +65,7 @@
             <namePart>University of Tennessee, Knoxville</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235">
         <name>
             <namePart>Tennessee Volunteers cross country</namePart>
         </name>

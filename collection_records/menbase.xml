@@ -39,22 +39,22 @@
         valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
         <topic>College sports</topic>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7812580">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7812580">
         <name>
             <namePart>Todd Raleigh</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q99521576">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q99521576">
         <name>
             <namePart>John Whited</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q5972562">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q5972562">
         <name>
             <namePart>Rod Delmonico</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q6767131">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q6767131">
         <name>
             <namePart>Mark Connor</namePart>
         </name>
@@ -65,7 +65,7 @@
             <namePart>University of Tennessee, Knoxville</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700232">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700232">
         <name>
             <namePart>Tennessee Volunteers baseball</namePart>
         </name>

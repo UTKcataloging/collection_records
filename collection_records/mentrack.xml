@@ -34,17 +34,17 @@
         valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
         <topic>College sports</topic>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q27928526">
         <name>
             <namePart>Stan Huntsman</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q98094952">
         <name>
             <namePart>Bill Webb</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326">
         <name>
             <namePart>Doug Brown</namePart>
         </name>
@@ -55,7 +55,7 @@
             <namePart>University of Tennessee, Knoxville</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700239">
         <name>
             <namePart>Tennessee Volunteers track and field</namePart>
         </name>

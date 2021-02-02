@@ -38,17 +38,17 @@
         valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
         <topic>College sports</topic>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q99701078">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q99701078">
         <name>
             <namePart>Beitia, Jim</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q61779863">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q61779863">
         <name>
             <namePart>Weekly, Karen</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q61764475">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q61764475">
         <name>
             <namePart>Weekly, Ralph</namePart>
         </name>
@@ -59,7 +59,7 @@
             <namePart>University of Tennessee, Knoxville</namePart>
         </name>
     </subject>
-    <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700105">
+    <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700105">
         <name>
             <namePart>Tennessee Lady Volunteers softball</namePart>
         </name>
