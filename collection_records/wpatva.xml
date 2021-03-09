@@ -5,13 +5,12 @@
     </titleInfo>
     <abstract>This collection contains photographs taken by Works Progress Administration (WPA) workers of archaeological projects conducted in preparation for Tennessee Valley Authority (TVA) dam construction in the 1930s. Excavation sites include Chickamauga, Douglas, Fort Loudon, and many more.</abstract>
     <originInfo>
-        <dateCreated>1934-1941</dateCreated>
+        <dateCreated>1934-1942</dateCreated>
         <dateCreated encoding="edtf" point="start">1934</dateCreated>
-        <dateCreated encoding="edtf" point="end">1941</dateCreated>
+        <dateCreated encoding="edtf" point="end">1942</dateCreated>
     </originInfo>
     <physicalDescription>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
-        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027201">field notes</form>
     </physicalDescription>
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101308">
         <topic>Photography in archaeology</topic>
@@ -24,6 +23,9 @@
     </subject>
     <subject>
         <topic>Excavations (Archaeology)--Kentucky</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+        <geographic>Southern States</geographic>
     </subject>
     <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80126249">
         <name>
@@ -44,5 +46,5 @@
     <language>
         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
     </language>
-    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
 </mods>
