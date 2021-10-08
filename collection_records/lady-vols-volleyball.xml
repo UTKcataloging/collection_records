@@ -94,12 +94,7 @@
          <coordinates>35.96064, -83.92074</coordinates>
       </cartographics>
    </subject>
-   <typeOfResource>text</typeOfResource>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>University of Tennessee Lady Volunteers Volleyball Media Guides</title>
-      </titleInfo>
-   </relatedItem>
+   <typeOfResource collection="yes">text</typeOfResource>
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
