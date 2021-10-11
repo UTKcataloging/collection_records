@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo supplied="yes">
+      <title>University of Tennessee Lady Volunteers Track and Field Media Guides</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>1978-2012</dateIssued>
+      <dateIssued encoding="edtf" point="start">1978</dateIssued>
+      <dateIssued encoding="edtf" point="end">2012</dateIssued>
+      <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <abstract>This collection shares women's track and field media guides from 1978 to 2012. One of the team's most notable accomplishments from this period was winning the NCAA Outdoor National Championships in 1981.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>172 pages</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2004014062">
+      <topic>All-around (Track and field)</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2004010434">
+      <topic>College sports for women</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+      <topic>College sports</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85147726">
+      <topic>Women track and field athletes</topic>
+   </subject>
+   <subject authority="wikidata"
+            valueURI="http://www.wikidata.org/entity/Q98714305">
+      <name>
+         <namePart>Clark, J.J.</namePart>
+      </name>
+   </subject>
+   <subject authority="wikidata"
+      valueURI="http://www.wikidata.org/entity/Q98806737">
+      <name>
+         <namePart>Schwartz, Gary</namePart>
+      </name>
+   </subject>
+   <subject authority="wikidata"
+      valueURI="http://www.wikidata.org/entity/Q108839345">
+      <name>
+         <namePart>Ferguson, Myrtle</namePart>
+      </name>
+   </subject>
+   <subject authority="wikidata"
+      valueURI="http://www.wikidata.org/entity/Q85304029">
+      <name>
+         <namePart>Doolittle, Dorothy</namePart>
+      </name>
+   </subject>
+   <subject authority="wikidata"
+      valueURI="http://www.wikidata.org/entity/Q98805976">
+      <name>
+         <namePart>Crawford, Terry</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q7700239">
+      <name>
+         <namePart>Tennessee Volunteers track and field</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <typeOfResource collection="yes">text</typeOfResource>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <accessCondition type="use and reproduction"
+                     xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
+</mods>
