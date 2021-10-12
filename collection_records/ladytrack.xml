@@ -20,7 +20,6 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
-      <extent>172 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh2004014062">
