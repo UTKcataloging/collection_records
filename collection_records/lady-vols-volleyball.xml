@@ -96,12 +96,12 @@
    </subject>
    <relatedItem displayLabel="Featured Item">
       <titleInfo>
-         <title>University of Tennessee Lady Volunteers volleyball media guide, 1994</title>
+         <title>Cover of Lady Volunteers Volleyball Media Guide</title>
       </titleInfo>
-      <identifier type="pid">lady-vols-volleyball_1994_001</identifier>
+      <identifier type="pid">ladyvolley:1712</identifier>
       <abstract>The 1994 Lady Volunteers volleyball team was coached by Julie Hermann and led by seniors Sonja Thomas, Molly Mooney, and Cissi Lennartsson.</abstract>
       <originInfo>
-         <dateCreated>1994</dateCreated>
+         <dateIssued>1994</dateIssued>
       </originInfo>
    </relatedItem> 
    <typeOfResource collection="yes">text</typeOfResource>
