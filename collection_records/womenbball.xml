@@ -55,16 +55,6 @@
             <coordinates>35.96064, -83.92074</coordinates>
         </cartographics>
     </subject>
-    <relatedItem displayLabel="Featured Item">
-        <titleInfo>
-            <title>Cover of Tennessee Lady Volunteers Basketball Media Guide</title>
-        </titleInfo>
-        <identifier type="pid">womenbball:1285</identifier>
-        <abstract>Lady Volunteers basketball program published in 2001.</abstract>
-        <originInfo>
-            <dateIssued>2001</dateIssued>
-        </originInfo>
-    </relatedItem>
     <typeOfResource collection="yes">text</typeOfResource>
     <classification authority="lcc">LD5296.A7</classification>
     <language>
