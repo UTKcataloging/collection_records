@@ -77,12 +77,12 @@
    </subject>
    <relatedItem displayLabel="Featured Item">
       <titleInfo>
-         <title>University of Tennessee Lady Volunteers rowing media guide, 2010-2011</title>
+         <title>Cover of Lady Volunteers Rowing Media Guide</title>
       </titleInfo>
-      <identifier type="pid">lady-vols-rowing_2010_001</identifier>
-      <abstract>After capturing their first-ever Conference USA Rowing Championship in 2009, the 2010-2011 Lady Volunteers rowing team returned to the water under the leadership of coach Lisa Glenn.</abstract>
+      <identifier type="pid">ladyrowing:38</identifier>
+      <abstract>Lady Volunteers rowing program published in 2010. The team was led by coach Lisa Glenn during this athletic season.</abstract>
       <originInfo>
-         <dateCreated>2010</dateCreated>
+         <dateIssued>2010</dateIssued>
       </originInfo>
    </relatedItem> 
    <typeOfResource collection="yes">text</typeOfResource>
