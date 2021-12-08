@@ -85,6 +85,16 @@
          <coordinates>35.96064, -83.92074</coordinates>
       </cartographics>
    </subject>
+   <relatedItem displayLabel="Featured Item">
+      <titleInfo>
+         <title>University of Tennessee Lady Volunteers track and field media guide, 2007</title>
+      </titleInfo>
+      <identifier type="pid">lady-vols-track_2007_001</identifier>
+      <abstract>Pictured are 2007 Lady Volunteers track and field team standouts, Leslie Treherne and Cleo Tyson. The team was coached by J.J. Clark during this athletic season.</abstract>
+      <originInfo>
+         <dateCreated>2007</dateCreated>
+      </originInfo>
+   </relatedItem> 
    <typeOfResource collection="yes">text</typeOfResource>
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
