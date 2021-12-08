@@ -75,6 +75,16 @@
          <coordinates>35.96064, -83.92074</coordinates>
       </cartographics>
    </subject>
+   <relatedItem displayLabel="Featured Item">
+      <titleInfo>
+         <title>University of Tennessee Lady Volunteers rowing media guide, 2010-2011</title>
+      </titleInfo>
+      <identifier type="pid">lady-vols-rowing_2010_001</identifier>
+      <abstract>After capturing their first-ever Conference USA Rowing Championship in 2009, the 2010-2011 Lady Volunteers rowing team returned to the water under the leadership of coach Lisa Glenn.</abstract>
+      <originInfo>
+         <dateCreated>2010</dateCreated>
+      </originInfo>
+   </relatedItem> 
    <typeOfResource collection="yes">text</typeOfResource>
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
