@@ -87,12 +87,12 @@
    </subject>
    <relatedItem displayLabel="Featured Item">
       <titleInfo>
-         <title>University of Tennessee Lady Volunteers track and field media guide, 2007</title>
+         <title>Cover of Lady Volunteers Track and Field Media Guide</title>
       </titleInfo>
-      <identifier type="pid">lady-vols-track_2007_001</identifier>
+      <identifier type="pid">ladytrack:609</identifier>
       <abstract>Pictured are 2007 Lady Volunteers track and field team standouts, Leslie Treherne and Cleo Tyson. The team was coached by J.J. Clark during this athletic season.</abstract>
       <originInfo>
-         <dateCreated>2007</dateCreated>
+         <dateIssued>2007</dateIssued>
       </originInfo>
    </relatedItem> 
    <typeOfResource collection="yes">text</typeOfResource>
