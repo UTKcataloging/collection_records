@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>University of Tennessee Record</title>
+    </titleInfo>
+    <abstract>The University of Tennessee Record (UT Record) is the predecessor to the UT Fact book, Course Catalog, Student/Faculty Directory, and Annual Reports of the President. This collection contains volumes 1-78 spanning across almost a century of the University of Tennessee from 1898 to 1975.</abstract>
+    <originInfo>
+        <dateIssued>1878-1975</dateIssued>
+        <dateIssued encoding="edtf" point="start">1878</dateIssued>
+        <dateIssued encoding="edtf" point="end">1975</dateIssued>
+        <publisher>University of Tennessee Press</publisher>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+        <extent>442 booklets</extent>
+    </physicalDescription>
+	<subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+		<topic>State universities and colleges</topic>
+	</subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85141103">
+        <topic>Universities and colleges--Curricula</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85141093">
+        <topic>Universities and colleges--Alumni and alumnae</topic>
+    </subject>
+	<subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003887">
+		<name>
+			<namePart>University of Tennessee (Knoxville campus)</namePart>
+		</name>
+	</subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003891">
+        <name>
+            <namePart>University of Tennessee (System)</namePart>
+        </name>
+    </subject>
+	<subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+		<geographic>Tennessee</geographic>
+	</subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <classification authority="lcc">LD5286.R3</classification>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
