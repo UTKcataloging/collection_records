@@ -5,7 +5,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
     <titleInfo>
-        <title>C. S. Boyd Photograph Collection</title>
+        <title>Dr. Charles S. Boyd Photograph Collection</title>
     </titleInfo>
     <name>
         <namePart>Browder, Boyd</namePart>
@@ -25,7 +25,7 @@
         <dateCreated encoding="edtf" point="start">1869</dateCreated>
         <dateCreated encoding="edtf" point="end">1930</dateCreated>
     </originInfo>
-    <abstract></abstract>
+    <abstract>The Dr. C. S. Boyd Photograph Collection contains early 20th century images of African-American life in the east Tennessee area. Many of the photographs depict, or relate to, Dr. C. S. Boyd (1869-1922), his family, and his friends. Boyd, a dentist from Maryville, Tennessee, owned and operated a dental office in downtown Knoxville on West Vine Avenue, once a hub for Black-owned businesses. Several of the photographs in the collection were taken by Boyd Browder, an African-American photographer who owned studios in the same part of town. While some of the subjects in these photographs remain unidentified, the images chronicle businesses, civic organizations, education efforts, families, individuals, and more, providing a glimpse into the African-American community of east Tennessee at this time.</abstract>
     <physicalDescription>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
         <extent>38 photographs</extent>
@@ -50,11 +50,6 @@
         <topic>Men</topic>
     </subject>
     <typeOfResource>still image</typeOfResource>
-    <relatedItem displayLabel="Project" type="host">
-        <titleInfo>
-            <title>C. S. Boyd Photograph Collection</title>
-        </titleInfo>
-    </relatedItem>
     <relatedItem displayLabel="Collection" type="host">
         <titleInfo>
             <title>C. S. Boyd Photograph Collection</title>
@@ -63,12 +58,12 @@
     </relatedItem>
     <relatedItem displayLabel="Featured Item">
         <titleInfo>
-            <title>xxx</title>
+            <title>Group portrait</title>
         </titleInfo>
-        <identifier type="pid">boydcs:xxx</identifier>
-        <abstract>xxx</abstract>
+        <identifier type="pid">volvoices:10903</identifier>
+        <abstract>This photograph shows educated and successful African-American men and women living in the Mid-South long before the doctrine of segregation was officially repudiated. Back row, left to right: Dr. William Valentine, Ms. Hattie A. V.Boyd, Mrs. Sarah V. Allen, Ms. Mary Valentine, Mrs. Minnie Bronner (wife of Rev. Bronner), and Mrs. Emma V. Sharp. Front row, left to right: Ms. Maggie Valentine (wife of Dr. Valentine), Beunetta Allen and Grace Allen (daughters of Mrs. Sarah V. Allen).</abstract>
         <originInfo>
-            <dateCreated>xxx</dateCreated>
+            <dateCreated>1900</dateCreated>
         </originInfo>
     </relatedItem>
     <location>
