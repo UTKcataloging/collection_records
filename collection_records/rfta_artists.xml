@@ -5,13 +5,78 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
     <titleInfo>
-        <title>Artists' Work Inspired by the Rising From the Ashes Oral Histories</title>
+        <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
     </titleInfo>
+    <abstract>The Chimney Tops 2 wildfires, one of the largest natural disasters in Tennessee history, 
+        began on November 23, 2016 in the Great Smoky Mountains National Park and caused fourteen deaths, 
+        injuries to more than 200 individuals, and the evacuation of thousands of people. The University of 
+        Tennessee Libraries, with support from the city of Gatlinburg and partnership from the Anna Porter Public Library, 
+        captured the stories of those affected by the wildfires through recording oral histories. This collection features art created by 
+        illustrators Paige Braddock, Marshall Ramsey, and Danny Wilson in response to these interviews.</abstract>
+    <name authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/no2003045282">
+        <namePart>Ramsey, Marshall</namePart>
+        <role>
+            <roleTerm authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+        </role>
+    </name>
+    <name authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/no2022040948">
+        <namePart>Wilson, Danny</namePart>
+        <role>
+            <roleTerm authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+        </role>
+    </name>
+    <name authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n2002022941">
+        <namePart>Braddock, Paige</namePart>
+        <role>
+            <roleTerm authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022054298">
+        <namePart>Daniel, Charles R. (Charlie), Jr., 1929-</namePart>
+        <role>
+            <roleTerm authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated>2016-2022</dateCreated>
+        <dateCreated point="start" encoding="edtf">2016</dateCreated>
+        <dateCreated point="end" encoding="edtf">2022</dateCreated>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+        <extent>46 illustrations, 23 videos</extent>
+    </physicalDescription>
     <subject authority="lcsh"
         valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
         <topic>Wildfires</topic>
     </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85008298">
+        <topic>Artists and community</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh97000057">
+        <topic>Disasters in art</topic>
+    </subject>
+    <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+        <geographic>Gatlinburg</geographic>
+        <cartographics>
+            <coordinates>35.71453, -83.51189</coordinates>
+        </cartographics>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <typeOfResource collection="yes">sound recording-nonmusical</typeOfResource>
     <recordInfo>
         <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
     </recordInfo>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
