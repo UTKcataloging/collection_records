@@ -75,6 +75,16 @@
     <note>The Rising from the Ashes Oral History Project collects personal accounts of the Chimney Tops 2 Wildfires of 2016, and The University of Tennessee holds no liability for statements made in the recordings. These accounts reflect the opinions of the narrators, and thus they are subjective and should not be considered verified or comprehensive. Oral history interviews may be used alongside other primary and secondary source materials to gain a fuller understanding of historical events.</note>
     <typeOfResource collection="yes">still image</typeOfResource>
     <typeOfResource collection="yes">sound recording-nonmusical</typeOfResource>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>Leading the Way Out of the Fire</title>
+        </titleInfo>
+        <identifier type="pid">rftaart:79</identifier>
+        <abstract>Multiple interviewees said they were concerned for visitors who weren’t from the Gatlinburg area. Many tourists were visiting at the time of the fire, several people mentioned fears about those visitors finding their way out with so many roads closed or blocked. Charlie Anderson talked about one of his employees at the rental resort he manages and owns. He said this young man drove his pickup to lead several cars of visitors unfamiliar with the area out a dirt backroad to safety.</abstract>
+        <originInfo>
+            <dateCreated>2021</dateCreated>
+        </originInfo>
+    </relatedItem>
     <recordInfo>
         <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
     </recordInfo>
