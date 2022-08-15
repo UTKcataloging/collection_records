@@ -46,9 +46,11 @@
             <namePart>Kelly, Angela</namePart>
         </name>
     </subject>
-    <name>
-        <namePart>University of Tennessee, Knoxville</namePart>
-    </name>
+    <subject valueURI="http://id.loc.gov/authorities/names/n80003889">
+        <name>
+            <namePart>University of Tennessee, Knoxville</namePart>
+        </name>
+    </subject>
     <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q7700103">
         <name>
             <namePart>Tennessee Lady Volunteers soccer</namePart>
