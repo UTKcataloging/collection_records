@@ -50,7 +50,7 @@
             <namePart>Mecklenburg Declaration of Independence</namePart>
         </name>
     </subject>
-    <subject authority="naf" valueURI="Knoxville (Tenn.)">
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
         <geographic>Knoxville (Tenn.)</geographic>
     </subject>
     <typeOfResource collection="yes">text</typeOfResource>
