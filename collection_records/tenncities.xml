@@ -32,7 +32,7 @@
         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
     </language>
     <physicalDescription>
-        <form authority="aat" valueURI="http://vocab.getty.edu/aat/30004630">photographs</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127197">stereographs</form>
