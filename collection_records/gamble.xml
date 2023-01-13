@@ -3,7 +3,7 @@
     <titleInfo>
         <title>Ed Gamble Cartoon Collection</title>
     </titleInfo>
-    <abstract>Featuring current events and caricatures, this collection shares over 300 cartoons by Ed Gamble. The pieces were created between 1974 and 2005, when Gamble worked as the cartoonist for the Nashville Banner and the Florida Times-Union.</abstract>
+    <abstract>Featuring current events and caricatures, this collection shares over 6,000 cartoons by Ed Gamble. The pieces were primarily created between 1974 and 2005, when Gamble worked as the cartoonist for the Nashville Banner and the Florida Times-Union.</abstract>
     <name>
         <namePart>Gamble, Ed</namePart>
         <role>
@@ -11,13 +11,12 @@
         </role>
     </name>
     <originInfo>
-        <dateCreated>1974-2004</dateCreated>
-        <dateCreated encoding="edtf" point="start">1974</dateCreated>
-        <dateCreated encoding="edtf" point="end">2004</dateCreated>
+        <dateCreated>1969-2013</dateCreated>
+        <dateCreated encoding="edtf" point="start">1969</dateCreated>
+        <dateCreated encoding="edtf" point="end">2013</dateCreated>
     </originInfo>
     <physicalDescription>
-        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
-        <extent>312 cartoons</extent>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
     </physicalDescription>
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104348">
         <topic>Political cartoons</topic>
@@ -33,6 +32,21 @@
     </subject>
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056108">
         <topic>Government spending policy</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79059562">
+        <name>
+            <namePart>Reagan, Ronald</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82029644">
+        <name>
+            <namePart>Clinton, Bill, 1946-</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80015879">
+        <name>
+            <namePart>Bush, George, 1924-2018</namePart>
+        </name>
     </subject>
     <typeOfResource collection="yes">still image</typeOfResource>
     <language>
