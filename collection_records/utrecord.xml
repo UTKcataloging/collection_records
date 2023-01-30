@@ -3,10 +3,10 @@
     <titleInfo>
         <title>University of Tennessee Record</title>
     </titleInfo>
-    <abstract>The University of Tennessee Record (UT Record) is the predecessor to the UT Fact book, Course Catalog, Student/Faculty Directory, and Annual Reports of the President. This collection contains volumes 1-78 spanning across almost a century of the University of Tennessee from 1898 to 1975.</abstract>
+    <abstract>The University of Tennessee Record is the predecessor to the UT Fact book, Course Catalog, Student/Faculty Directory, and Annual Reports of the President. This collection contains volumes 1-78 published between 1898 and 1975.</abstract>
     <originInfo>
-        <dateIssued>1878-1975</dateIssued>
-        <dateIssued encoding="edtf" point="start">1878</dateIssued>
+        <dateIssued>1898-1975</dateIssued>
+        <dateIssued encoding="edtf" point="start">1898</dateIssued>
         <dateIssued encoding="edtf" point="end">1975</dateIssued>
         <publisher>University of Tennessee Press</publisher>
         <place>
