@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Minutes of the Ossoli Circle</title>
+    </titleInfo>
+    <abstract>Founded in Knoxville in 1885, the Ossoli Circle is a women's club that has been influential in bettering the educational and economic opportunities for Tennessee women. These minute books document the club’s meetings from 1903-1908.</abstract>
+    <originInfo>
+        <dateCreated>1903-1908</dateCreated>
+        <dateCreated encoding="edtf" point="start">1903-10-12</dateCreated>
+        <dateCreated encoding="edtf" point="end">1908-05-25</dateCreated>
+    </originInfo>
+    <name valueURI="http://id.loc.gov/authorities/names/n90609187">
+        <namePart>Ossoli Circle (Knoxville, Tenn.)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <physicalDescription>
+        <extent>2 books</extent>
+        <form valueURI="http://vocab.getty.edu/aat/300027440">minutes (administrative records)</form>
+        <form valueURI="http://vocab.getty.edu/aat/300028051">books</form>
+    </physicalDescription>
+    <note>Gift of Miss Kate White.</note>
+    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85147343">
+        <topic>Women--Societies and clubs</topic>
+    </subject>
+    <subject valueURI="http://id.loc.gov/authorities/names/n90609187">
+        <name>
+            <namePart>Ossoli Circle (Knoxville, Tenn.)</namePart>
+        </name>
+    </subject>
+    <subject valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+    </subject>
+    <language>
+        <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+    </language>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem displayLabel="Project" type="host">
+        <titleInfo>
+            <title>Ossoli Circle Meeting Minutes</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Ossoli Circle Records</title>
+        </titleInfo>
+        <identifier>MS-3822</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
