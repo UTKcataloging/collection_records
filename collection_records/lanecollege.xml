@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Lane College Scrapbook</title>
+    </titleInfo>
+    <name>
+        <namePart>Spann, Lessie Belle</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <originInfo>
+        <dateCreated qualifier="approximate">1923</dateCreated>
+        <dateCreated encoding="edtf" qualifier="approximate">1923</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" type="text">French</languageTerm>
+    </language>
+    <abstract>This collection contains a scrapbook created by Lessie Belle Spann at Lane College during her senior year in 1923 and loose photographs of classrooms. The scrapbook includes photos cut from yearbooks, poems and messages from classmates, and personal photos from Spann.</abstract>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027341">scrapbooks</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300128347">black-and-white photographs</form>
+        <extent>1 scrapbook, 4 photographs</extent>
+    </physicalDescription>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh2022006092">
+        <topic>Historically Black colleges and universities</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85028370">
+        <topic>College students, Black</topic>
+    </subject>
+    <subject authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n84105266">
+        <name>
+            <namePart>Lane College</namePart>
+        </name>
+    </subject>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Lane College Scrapbook</title>
+        </titleInfo>
+        <identifier>MS-3976</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
