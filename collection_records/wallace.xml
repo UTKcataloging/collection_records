@@ -4,11 +4,10 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <identifier type="local">MS3989_b1_f1_001</identifier>
     <titleInfo supplied="yes">
         <title>John L. Wallace Korean War Training Photo Album</title>
     </titleInfo>
-    <abstract>This collection consists of a photograph album documenting soldiers at Camp McCoy, Wisconsin in training for service in the Korean War. The album, belonging to Corporal John L. Wallace, depicts individuals and groups within his military police battalion in various areas of the training camp. Also included are ephemeral items such as military passes, correspondence, and other pieces of memorabilia belonging to Wallace</abstract>
+    <abstract>This collection consists of a photograph album and other memorabilia belonging to Corporal John L. Wallace. It documents soldiers at Camp McCoy, Wisconsin in training for service in the Korean War.</abstract>
     <originInfo>
         <dateCreated qualifier="approximate">1948-1959</dateCreated>
         <dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated>
@@ -23,7 +22,9 @@
     </name>
     <physicalDescription>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026695">photograph albums</form>
-        <extent>1 photo album</extent>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+        <extent>1 photo album, 15 loose photographs, 7 memorabilia</extent>
     </physicalDescription>
     <subject valueURI="http://id.loc.gov/authorities/subjects/sh85073117">
         <topic>Korean War, 1950-1953</topic>
@@ -43,8 +44,8 @@
             <namePart>Camp McCoy (Wis.)</namePart>
         </name>
     </subject>
-    <typeOfResource>still image</typeOfResource>
-    <typeOfResource>text</typeOfResource>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <typeOfResource collection="yes">text</typeOfResource>
     <language>
         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
     </language>
@@ -65,7 +66,4 @@
     <recordInfo>
         <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
     </recordInfo>
-    <accessCondition type="use and reproduction"
-        xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
-
