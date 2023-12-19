@@ -60,6 +60,16 @@
         </titleInfo>
         <identifier>MS-3989</identifier>
     </relatedItem>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>John L. Wallace Korean War training photo album, page 23</title>
+        </titleInfo>
+        <identifier type="pid">wallace:24</identifier>
+        <abstract>Photograph of a group of soldiers with their names and origins inscribed.</abstract>
+        <originInfo>
+            <dateCreated>1948-1959</dateCreated>
+        </originInfo>
+    </relatedItem>
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
     </location>

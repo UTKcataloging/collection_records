@@ -45,6 +45,16 @@
         </titleInfo>
         <identifier>MS-3976</identifier>
     </relatedItem>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>Lane College classroom</title>
+        </titleInfo>
+        <identifier type="pid">lanecol:95</identifier>
+        <abstract>Photograph of Lane College students in a classroom.</abstract>
+        <originInfo>
+            <dateCreated>1923</dateCreated>
+        </originInfo>
+    </relatedItem> 
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
     </location>
