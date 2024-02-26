@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Tennessee University Student Magazine</title>
+    </titleInfo>
+    <originInfo>
+        <dateIssued>1841-1900</dateIssued>
+        <dateIssued encoding="edtf" point="start">1841</dateIssued>
+        <dateIssued encoding="edtf" point="end">1900</dateIssued>
+    </originInfo>
+    <abstract>The Tennessee University Student Magazine is a literary magazine, containing works by students, and is managed for the student body by representatives from all years.</abstract>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
+        <topic>College student newspapers and periodicals</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh88002030">
+        <topic>College students' writings</topic>
+    </subject>
+    <subject authority="naf"
+        valueURI="https://id.loc.gov/authorities/names/nr95035347">
+        <topic>East Tennessee University</topic>
+    </subject>
+    <subject authority="naf"
+        valueURI="https://id.loc.gov/authorities/names/n80003887">
+        <topic>University of Tennessee (Knoxville campus)</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <classification authority="lcc">LH1.T2 M2</classification>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
