@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo supplied="yes">
+        <title>University of Tennessee Student Handbook</title>
+    </titleInfo>
+    <originInfo>
+        <dateIssued>1889-2013</dateIssued>
+        <dateIssued encoding="edtf" point="start">1889</dateIssued>
+        <dateIssued encoding="edtf" point="end">2013</dateIssued>
+        <publisher>American Y.M.C.A.</publisher>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <abstract>Handbook to help acquaint students with the customs and traditions of the University of Tennessee.</abstract>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311807">handbooks</form>
+        <extent>90 handbooks</extent>
+    </physicalDescription>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh85028356">
+        <topic>College students</topic>
+    </subject>
+    <subject authority="lcsh"
+        valueURI="http://id.loc.gov/authorities/subjects/sh2009120663">
+        <topic>College student orientation--Handbooks, manuals, etc.</topic>
+    </subject>
+    <subject authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n80003887">
+        <topic>University of Tennessee (Knoxville campus)</topic>
+    </subject>
+    <subject authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n80003889">
+        <topic>University of Tennessee, Knoxville</topic>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <classification authority="lcc">LD5298.3 .S8</classification>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
