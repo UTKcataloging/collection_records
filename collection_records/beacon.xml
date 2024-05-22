@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>The Daily Beacon</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>The Orange and White</title>
+    </titleInfo>
+    <abstract>Student newspaper first published in 1900 as The Orange and White that later became a daily in 1965. The Daily Beacon covered national and international news in addition to UT topics.</abstract>
+    <originInfo>
+        <dateIssued>1900-2016</dateIssued>
+        <dateIssued encoding="edtf" point="start">1900-02-24</dateIssued>
+        <dateIssued encoding="edtf" point="end">2016-11-30</dateIssued>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+        </place>
+    </originInfo>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form>
+        <extent>11,500 issues</extent>
+    </physicalDescription>
+    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
+        <topic>College student newspapers and periodicals</topic>
+    </subject>
+    <subject valueURI="http://id.loc.gov/authorities/names/n80003889">
+        <topic>University of Tennessee, Knoxville</topic>
+    </subject>
+    <subject authority="naf"
+        valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <name>
+            <namePart>Knoxville (Tenn.)</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+    </language>
+    <classification authority="lcc">LH1.T2 O7</classification>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+    <accessCondition type="use and reproduction"
+        xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
