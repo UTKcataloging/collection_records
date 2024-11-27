@@ -3,7 +3,7 @@
     <titleInfo>
         <title>John Sevier Papers</title>
     </titleInfo>
-    <abstract>Spanning 1782-1839, the material in this collection contains letters and documents providing insight into the life of early American statesman and soldier John Sevier. Sevier was the first governor of Tennessee and served in the American Revolutionary War.</abstract>
+    <abstract>Spanning 1795-1839, the material in this collection contains letters and documents providing insight into the life of early American statesman and soldier John Sevier. Sevier was the first governor of Tennessee and served in the American Revolutionary War.</abstract>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/nr89016779">
         <namePart>Sevier, John, 1745-1815</namePart>
         <role>
@@ -17,8 +17,8 @@
         </role>
     </name>
     <originInfo>
-        <dateCreated>1782-1839</dateCreated>
-        <dateCreated encoding="edtf" point="start">1782</dateCreated>
+        <dateCreated>1795-1839</dateCreated>
+        <dateCreated encoding="edtf" point="start">1795</dateCreated>
         <dateCreated encoding="edtf" point="end">1839</dateCreated>
     </originInfo>
     <physicalDescription>
@@ -47,9 +47,9 @@
             <namePart>Meigs, Return Jonathan, 1740-1823</namePart>
         </name>
     </subject>
-    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n89613198">
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2001120002">
         <name>
-            <namePart>Overton, John, 1766-1833</namePart>
+            <namePart>Sevier, George Washington, 1782-1849</namePart>
         </name>
     </subject>
     <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965">
