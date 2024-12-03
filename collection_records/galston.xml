@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Gottfried Galston Music Collection</title>
+    </titleInfo>
+    <abstract>This collection features Galston's Studienbuch, which includes detailed commentary on the performance of selected piano works by Bach, Beethoven, Chopin, Liszt and Brahms. Also present are photographs, sketches, and postcards documenting Galston and his circle.</abstract>
+    <originInfo>
+        <dateCreated>1905-2019</dateCreated>
+        <dateCreated point="start">1905</dateCreated>
+        <dateCreated point="end">2019</dateCreated>
+    </originInfo>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997">
+        <namePart>Galston, Gottfried, 1879-1950</namePart>
+        <role>
+            <roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2005081852">
+        <namePart>Veber, Jean, 1864-1928</namePart>
+        <role>
+            <roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Wasow, Eduard</namePart>
+        <role>
+            <roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2007010769">
+        <namePart>Meseck, Felix, 1883-1955</namePart>
+        <role>
+            <roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+        </role>
+    </name>
+    <physicalDescription>
+        <extent>14 photographs, 3 books, 3 postcards, 3 sketches, 1 sculpture</extent>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300395494">concert programs</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300047806">casts (sculpture)</form>
+    </physicalDescription>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
+        <topic>Music</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101782">
+        <topic>Piano music</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85030622">
+        <topic>Concert programs</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85019644">
+        <topic>Musical canon</topic>
+    </subject>
+    <subject>
+        <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997">
+            <namePart>Galston, Gottfried, 1879-1950</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681">
+        <topic>Portraits</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027">
+        <topic>Musicians</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101206">
+        <topic>Photography</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601">
+        <name>
+            <namePart>Busoni, Ferruccio, 1866-1924</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009163749">
+        <name>
+            <namePart>Droucker, Sandra, 1876-1944</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79021425">
+        <name>
+            <namePart>Bach, Johann Sebastian, 1685-1750</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79107741">
+        <name>
+            <namePart>Beethoven, Ludwig van, 1770-1827</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79127769">
+        <name>
+            <namePart>Chopin, Frédéric, 1810-1849</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79079048">
+        <name>
+            <namePart>Liszt, Franz, 1811-1886</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79077221">
+        <name>
+            <namePart>Brahms, Johannes, 1833-1897</namePart>
+        </name>
+    </subject>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <typeOfResource collection="yes">text</typeOfResource>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">French</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">German</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">Russian</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+    </language>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+</mods>
